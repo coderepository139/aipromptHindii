@@ -1,5 +1,5 @@
 [build]
-  command = "node build.js"
+  command = "node build.js && node scripts/check.js"
   publish = "dist"
 
 [build.environment]
@@ -29,3 +29,11 @@
   from = "/index.html"
   to = "/"
   status = 301
+
+# Branch / pull-request deploy previews use the same build + check,
+# so every change can be reviewed on a preview URL before it reaches main.
+[context.deploy-preview]
+  command = "node build.js && node scripts/check.js"
+
+[context.branch-deploy]
+  command = "node build.js && node scripts/check.js"

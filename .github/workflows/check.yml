@@ -1,0 +1,20 @@
+name: Site check
+
+# Runs the same build + quality gate Netlify uses, so a broken commit shows a
+# red ✗ on GitHub (and on pull requests) before it can reach the live site.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node build.js
+      - run: node scripts/check.js

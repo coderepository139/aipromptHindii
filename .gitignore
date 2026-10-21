@@ -1,3 +1,4 @@
 dist/
 node_modules/
 *.zip
+static/og.png.b64

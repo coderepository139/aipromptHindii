@@ -1,0 +1,24 @@
+{
+  "slug": "keyword-in-romanised-hindi",
+  "category": "ai-photo-prompts",
+  "date": "2026-10-22",
+  "title": "Main Keyword: हिंदी में आकर्षक टाइटल (2026)",
+  "seoTitle": "Main Keyword – Short Benefit (≤65 chars)",
+  "description": "120–160 अक्षरों का विवरण जिसमें मुख्य कीवर्ड शुरुआत में हो और पढ़ने वाले को साफ़ फायदा दिखे।",
+  "keywords": "main keyword, variation 1, variation 2",
+  "intro": "पहला पैराग्राफ — पाठक को तुरंत बताएं कि इस पेज पर क्या मिलेगा।",
+  "related": ["gemini-ai-photo-prompt-copy-paste", "diwali-ai-photo-prompts", "ai-video-kaise-banaye"],
+  "blocks": [
+    { "type": "h2", "id": "kaise-use-kare", "text": "कैसे इस्तेमाल करें" },
+    { "type": "ol", "items": ["पहला स्टेप", "दूसरा स्टेप", "तीसरा स्टेप"] },
+    { "type": "note", "title": "टिप", "html": "ज़रूरी बात यहाँ।" },
+    { "type": "h2", "id": "prompts", "text": "प्रॉम्प्ट्स" },
+    { "type": "prompt", "title": "प्रॉम्प्ट का नाम", "for": "All", "text": "English prompt text ... Keep the face exactly identical to the uploaded photo.", "tip": "वैकल्पिक टिप।" },
+    { "type": "table", "head": ["कॉलम 1", "कॉलम 2"], "rows": [["a", "b"]] },
+    { "type": "ul", "items": ["पॉइंट 1", "पॉइंट 2"] },
+    { "type": "p", "html": "साधारण पैराग्राफ। लिंक: <a href='/chatgpt-kaise-use-kare/'>ChatGPT गाइड</a>।" }
+  ],
+  "faq": [
+    { "q": "सवाल?", "a": "जवाब।" }
+  ]
+}
