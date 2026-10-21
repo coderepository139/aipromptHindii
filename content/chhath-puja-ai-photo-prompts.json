@@ -1,0 +1,41 @@
+{
+  "slug": "chhath-puja-ai-photo-prompts",
+  "category": "ai-photo-prompts",
+  "featured": true,
+  "date": "2026-10-21",
+  "title": "Chhath Puja AI Photo Prompts 2026: Gemini के लिए 10 छठ पूजा प्रॉम्प्ट्स",
+  "seoTitle": "Chhath Puja AI Photo Prompt 2026 – Gemini Copy Paste",
+  "description": "छठ पूजा 2026 (मुख्य दिन 15 नवंबर) के लिए Gemini AI photo prompt copy paste — घाट पर अर्घ्य, सूप, साड़ी, फैमिली और छठ विश इमेज के 10 प्रॉम्प्ट्स।",
+  "keywords": "chhath puja ai photo prompt, gemini ai photo prompt chhath puja, chhath puja ai photo editing, chhath puja gemini prompt copy paste",
+  "intro": "छठ महापर्व 2026 में <b>13 से 16 नवंबर</b> तक मनाया जाएगा, और मुख्य दिन (संध्या अर्घ्य) <b>15 नवंबर</b> को है। घाट, सूप और उगते सूरज के साथ अपनी खूबसूरत छठ फोटो बनाने के लिए ये प्रॉम्प्ट्स कॉपी करें।",
+  "related": ["diwali-ai-photo-prompts", "gemini-ai-photo-prompt-saree", "gemini-ai-photo-prompt-copy-paste"],
+  "blocks": [
+    { "type": "h2", "id": "women", "text": "महिलाओं के लिए छठ पूजा प्रॉम्प्ट्स" },
+    { "type": "prompt", "title": "उगते सूरज को अर्घ्य", "for": "Woman", "text": "Show the woman from this photo standing waist-deep in a calm river at sunrise, wearing a traditional yellow and red Chhath saree with long orange sindoor from forehead to the nose, holding a bamboo soop filled with thekua, bananas, sugarcane and a lit diya, offering arghya to the rising sun. Golden sunrise light reflecting on the water, devotional peaceful atmosphere, ultra-realistic 4K. Keep her face exactly identical to the uploaded photo." },
+    { "type": "prompt", "title": "संध्या अर्घ्य (डूबता सूरज)", "for": "Woman", "text": "Show the woman from this photo at a crowded river ghat during evening Chhath Puja, standing in the water facing the setting sun, holding a decorated soop with fruits and a lit diya. Orange sunset sky, many diyas floating on the water, devotees blurred in the background, warm realistic photography. Keep her face exactly identical to the uploaded photo." },
+    { "type": "prompt", "title": "घाट पर बैठकर पूजा", "for": "Woman", "text": "Show the woman from this photo sitting on the steps of a decorated river ghat during Chhath Puja, wearing a bright orange saree with sindoor, arranging fruits, sugarcane and diyas in bamboo baskets, a sugarcane canopy behind her, soft early morning light, candid devotional moment, realistic photography. Keep her face exactly identical to the uploaded photo." },
+
+    { "type": "h2", "id": "men-family", "text": "पुरुष और फैमिली के लिए प्रॉम्प्ट्स" },
+    { "type": "prompt", "title": "सिर पर दउरा लेकर घाट जाते हुए", "for": "Man", "text": "Show the man from this photo walking towards a river ghat at dawn carrying a large bamboo basket (daura) filled with fruits, sugarcane and pooja items on his head, wearing a white dhoti-kurta, other devotees walking in the background, misty golden morning light, realistic documentary photography. Keep his face exactly identical to the uploaded photo." },
+    { "type": "prompt", "title": "पूरी फैमिली घाट पर", "for": "Family", "text": "Using this family photo, show the whole family together at a river ghat during Chhath Puja at sunrise. The women wear traditional yellow and orange sarees with sindoor, the men wear kurta-pajama, everyone standing near the water with decorated soops, diyas and sugarcane. Warm golden light, joyful devotional mood, realistic. Keep every face exactly identical to the uploaded photo and do not add or remove anyone." },
+    { "type": "prompt", "title": "कपल छठ अर्घ्य", "for": "Couple", "text": "Show the couple from this photo standing together in a river at sunrise during Chhath Puja, the wife in a yellow saree with sindoor and the husband in a white kurta, both holding one bamboo soop with fruits and a lit diya, offering arghya to the rising sun. Golden reflections on the water, realistic photography. Keep both faces exactly identical to the uploaded photo." },
+
+    { "type": "h2", "id": "wish-images", "text": "छठ पूजा विश और स्टेटस इमेज (बिना फोटो)" },
+    { "type": "prompt", "title": "छठी मैया स्टेटस इमेज", "for": "Status", "text": "Create a beautiful devotional Chhath Puja image in vertical 9:16 format. A large glowing rising sun over a calm river, a bamboo soop in the foreground filled with thekua, bananas, coconut, sugarcane and a lit diya, marigold flowers, soft golden mist. Leave empty space at the top for text. No text in the image." },
+    { "type": "prompt", "title": "दीयों से जगमगाता घाट", "for": "Status", "text": "Create a wide cinematic image of a river ghat on Chhath Puja evening, hundreds of diyas floating on the water, sugarcane canopies decorated with lights along the steps, orange sunset sky reflecting in the river, peaceful devotional mood, ultra-realistic, 16:9 format, no text." },
+    { "type": "prompt", "title": "ठेकुआ और सूप क्लोज़-अप", "for": "Status", "text": "Create a close-up photograph of a traditional Chhath Puja bamboo soop filled with golden thekua, bananas, lemons, coconut, sugarcane pieces and a lit clay diya, placed on a red cloth with marigold petals. Soft warm natural light, rich texture, shallow depth of field, square 1:1 format, no text." },
+    { "type": "prompt", "title": "पारंपरिक मधुबनी आर्ट स्टाइल", "for": "Art", "text": "Create a Chhath Puja illustration in traditional Madhubani folk art style from Bihar. Women in sarees standing in a river offering arghya to a stylised sun, fish and lotus motifs in the water, intricate line patterns and borders, bright natural colors on handmade paper texture. No text." },
+
+    { "type": "h2", "id": "tips", "text": "छठ फोटो के लिए टिप्स" },
+    { "type": "ul", "items": [
+      "सिंदूर ठीक न दिखे तो लिखें: <i>'add long orange sindoor from the forehead to the tip of the nose'</i>।",
+      "AI कभी-कभी सूप को गलत बनाता है — लिखें <i>'a flat woven bamboo winnowing basket (soop)'</i>।",
+      "'छठ पूजा की शुभकामनाएं' जैसा हिंदी टेक्स्ट बाद में Canva में जोड़ें, AI में नहीं।"
+    ]}
+  ],
+  "faq": [
+    { "q": "छठ पूजा 2026 कब है?", "a": "छठ पूजा 2026 में 13 से 16 नवंबर तक है। मुख्य दिन (संध्या अर्घ्य) 15 नवंबर, रविवार को है।" },
+    { "q": "छठ पूजा AI फोटो कैसे बनाएं?", "a": "Gemini में अपनी फोटो अपलोड करें, ऊपर से कोई प्रॉम्प्ट कॉपी करके पेस्ट करें और सेंड करें।" },
+    { "q": "बिना अपनी फोटो के छठ इमेज बन सकती है?", "a": "हाँ, 'स्टेटस इमेज' वाले प्रॉम्प्ट्स बिना फोटो अपलोड किए सीधे पेस्ट करें।" }
+  ]
+}

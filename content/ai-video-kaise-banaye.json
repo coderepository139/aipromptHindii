@@ -1,0 +1,206 @@
+{
+ "slug": "ai-video-kaise-banaye",
+ "category": "ai-video",
+ "featured": false,
+ "date": "2026-10-21",
+ "title": "AI Video Kaise Banaye: मोबाइल से फ्री में AI वीडियो बनाने का आसान तरीका (2026)",
+ "seoTitle": "AI Video Kaise Banaye? मोबाइल से Free में (2026 गाइड)",
+ "description": "AI video kaise banaye — मोबाइल से फ्री में टेक्स्ट और फोटो से AI वीडियो बनाने का स्टेप-बाय-स्टेप तरीका, Gemini, Meta AI और Canva के साथ। कॉपी-पेस्ट प्रॉम्प्ट्स भी।",
+ "keywords": "ai video kaise banaye, ai video kaise banaye free mein, photo se ai video kaise banaye, text se ai video kaise banaye, ai video kaise banaye mobile se, story ai video kaise banaye",
+ "intro": "AI वीडियो बनाने के लिए अब न कैमरा चाहिए, न एडिटिंग का ज्ञान। बस एक लाइन लिखें या एक फोटो डालें, और AI कुछ ही मिनटों में वीडियो बना देता है। इस गाइड में मोबाइल से फ्री में AI वीडियो बनाने के 3 सबसे आसान तरीके हैं।",
+ "related": [
+  "ai-se-paise-kaise-kamaye",
+  "free-ai-tools-list-hindi",
+  "chatgpt-kaise-use-kare"
+ ],
+ "blocks": [
+  {
+   "type": "h2",
+   "id": "kaunsa-tool",
+   "text": "AI वीडियो के लिए कौन-सा टूल चुनें?"
+  },
+  {
+   "type": "table",
+   "head": [
+    "टूल",
+    "किसके लिए बेस्ट",
+    "फ्री में?"
+   ],
+   "rows": [
+    [
+     "<b>Google Gemini (Veo)</b>",
+     "सबसे रियलिस्टिक वीडियो, आवाज़ के साथ",
+     "पेड प्लान में; फ्री यूज़र्स को कभी-कभी सीमित ट्रायल"
+    ],
+    [
+     "<b>Meta AI ऐप</b>",
+     "छोटे वायरल वीडियो, फोटो को चलाना (animate)",
+     "हाँ, फ्री"
+    ],
+    [
+     "<b>Canva</b>",
+     "स्टोरी, स्लाइड-शो, YouTube Shorts",
+     "हाँ, फ्री प्लान में कुछ AI क्रेडिट"
+    ]
+   ]
+  },
+  {
+   "type": "note",
+   "html": "AI टूल्स की फ्री लिमिट और फीचर्स समय-समय पर बदलते रहते हैं। हम यह पेज नियमित रूप से अपडेट करते हैं; इस्तेमाल से पहले टूल में मौजूदा लिमिट ज़रूर देखें।"
+  },
+  {
+   "type": "h2",
+   "id": "tarika-1-text-se",
+   "text": "तरीका 1: टेक्स्ट से AI वीडियो कैसे बनाएं"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<b>Gemini ऐप</b> खोलें (या Meta AI ऐप) और अपने Google / Meta अकाउंट से लॉगिन करें।",
+    "चैट बॉक्स के पास वीडियो विकल्प चुनें (Gemini में यह <b>Video</b> या <b>Veo</b> नाम से दिखता है)।",
+    "नीचे दिया कोई प्रॉम्प्ट कॉपी करके पेस्ट करें — या अपनी कहानी अंग्रेज़ी में साफ़ शब्दों में लिखें।",
+    "1–3 मिनट इंतज़ार करें। वीडियो बनने पर उसे चलाकर देखें और <b>डाउनलोड</b> करें।",
+    "पसंद न आए तो प्रॉम्प्ट में कैमरा एंगल, रोशनी या एक्शन बदलकर दोबारा बनाएं।"
+   ]
+  },
+  {
+   "type": "prompt",
+   "title": "गांव की सुबह (सिनेमैटिक)",
+   "for": "Text to Video",
+   "text": "A cinematic 8-second video of an Indian village at sunrise. Mist over green paddy fields, a farmer walking with two bullocks on a mud path, birds flying across the orange sky, slow drone camera moving forward, warm golden light, peaceful ambient sound of birds and a distant temple bell."
+  },
+  {
+   "type": "prompt",
+   "title": "बारिश में चाय की टपरी",
+   "for": "Text to Video",
+   "text": "A cozy 8-second video of a roadside tea stall in Mumbai during heavy monsoon rain. Steam rising from a kettle, the chaiwala pouring tea into small glasses, raindrops falling from the tin roof, people in raincoats waiting, close-up camera slowly pulling back, warm light, sound of rain and clinking glasses."
+  },
+  {
+   "type": "prompt",
+   "title": "बंदर व्लॉगर (वायरल स्टाइल)",
+   "for": "Text to Video",
+   "text": "A funny 8-second handheld vlog-style video of a cute monkey holding a selfie stick, walking through a busy Indian street market, excitedly showing fruits to the camera, natural daylight, shaky handheld phone camera feel, playful upbeat background sounds.",
+   "tip": "जानवरों वाले वायरल व्लॉग वीडियो इस समय YouTube Shorts पर खूब चल रहे हैं।"
+  },
+  {
+   "type": "h2",
+   "id": "tarika-2-photo-se",
+   "text": "तरीका 2: फोटो से AI वीडियो कैसे बनाएं"
+  },
+  {
+   "type": "p",
+   "html": "अपनी या किसी पुरानी फोटो को चलती हुई वीडियो में बदलना सबसे पॉपुलर ट्रेंड है। Gemini और Meta AI दोनों में फोटो अपलोड करके उसे <b>animate</b> किया जा सकता है।"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "ऐप में वीडियो विकल्प चुनें और <b>+</b> दबाकर फोटो अपलोड करें।",
+    "नीचे से प्रॉम्प्ट पेस्ट करें, जिसमें बताया हो कि फोटो में क्या हिलना चाहिए।",
+    "वीडियो बनने के बाद डाउनलोड करें।"
+   ]
+  },
+  {
+   "type": "prompt",
+   "title": "पुरानी फैमिली फोटो को ज़िंदा करें",
+   "for": "Photo to Video",
+   "text": "Animate this old family photo gently. The people slowly smile and blink naturally, slight natural head movement, soft breeze moving the hair and clothes, keep every face exactly the same, subtle camera zoom in, warm nostalgic feel. Do not add or remove any person."
+  },
+  {
+   "type": "prompt",
+   "title": "अपनी फोटो से सिनेमैटिक शॉट",
+   "for": "Photo to Video",
+   "text": "Animate this photo into a cinematic shot. The person turns slightly towards the camera and smiles, hair moving in a gentle wind, background lights twinkling softly, slow dolly camera push-in, shallow depth of field. Keep the face exactly identical to the photo."
+  },
+  {
+   "type": "h2",
+   "id": "tarika-3-story",
+   "text": "तरीका 3: कहानी वाला लंबा AI वीडियो (YouTube के लिए)"
+  },
+  {
+   "type": "p",
+   "html": "AI टूल्स एक बार में आमतौर पर 8–10 सेकंड का वीडियो बनाते हैं। 1–2 मिनट की कहानी बनाने के लिए इसे टुकड़ों में बनाएं:"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<b>कहानी लिखवाएं:</b> <a href='/chatgpt-kaise-use-kare/'>ChatGPT</a> या Gemini से कहें — <i>'बच्चों के लिए 1 मिनट की नैतिक कहानी 8 सीन में लिखो, हर सीन का वीडियो प्रॉम्प्ट अंग्रेज़ी में दो।'</i>",
+    "<b>हर सीन का वीडियो बनाएं:</b> हर सीन का प्रॉम्प्ट अलग से वीडियो टूल में डालें। कैरेक्टर एक जैसा रखने के लिए हर प्रॉम्प्ट में उसका एक ही विवरण दोहराएं।",
+    "<b>आवाज़ जोड़ें:</b> अपनी आवाज़ में कहानी रिकॉर्ड करें, या किसी टेक्स्ट-टू-स्पीच टूल से हिंदी वॉइसओवर बनाएं।",
+    "<b>जोड़ें और एडिट करें:</b> सभी क्लिप्स को Canva या किसी भी वीडियो एडिटर ऐप में क्रम से जोड़ें, वॉइसओवर और म्यूज़िक लगाएं।",
+    "<b>एक्सपोर्ट करें:</b> Shorts के लिए 9:16 और लंबे वीडियो के लिए 16:9 साइज़ चुनें।"
+   ]
+  },
+  {
+   "type": "prompt",
+   "title": "कहानी को सीन में बांटने वाला प्रॉम्प्ट",
+   "for": "ChatGPT / Gemini",
+   "text": "Write a 1-minute moral story for kids in simple Hindi, divided into 8 scenes. For each scene give: (1) the Hindi narration line, (2) a detailed English video prompt for an AI video generator. Keep the main character's description exactly the same in every video prompt: a small brown rabbit with a red scarf. Style: colorful 3D animation, bright daylight."
+  },
+  {
+   "type": "h2",
+   "id": "achha-prompt",
+   "text": "अच्छा AI वीडियो प्रॉम्प्ट कैसे लिखें"
+  },
+  {
+   "type": "p",
+   "html": "हर अच्छे वीडियो प्रॉम्प्ट में ये 5 चीज़ें होनी चाहिए:"
+  },
+  {
+   "type": "table",
+   "head": [
+    "हिस्सा",
+    "उदाहरण"
+   ],
+   "rows": [
+    [
+     "कौन / क्या",
+     "a young girl in a yellow raincoat"
+    ],
+    [
+     "क्या कर रहा है",
+     "jumping in puddles and laughing"
+    ],
+    [
+     "कहाँ",
+     "on a narrow street in Shimla"
+    ],
+    [
+     "कैमरा",
+     "slow motion, low angle, camera following her"
+    ],
+    [
+     "रोशनी / मूड / आवाज़",
+     "soft overcast light, cheerful, sound of splashing water"
+    ]
+   ]
+  },
+  {
+   "type": "note",
+   "tone": "warn",
+   "title": "ध्यान दें",
+   "html": "किसी असली व्यक्ति, नेता या सेलिब्रिटी का नकली वीडियो (deepfake) बनाना या शेयर करना गैरकानूनी हो सकता है। YouTube पर रियलिस्टिक AI वीडियो अपलोड करते समय 'altered or synthetic content' का विकल्प चुनें।"
+  }
+ ],
+ "faq": [
+  {
+   "q": "क्या AI वीडियो फ्री में बना सकते हैं?",
+   "a": "हाँ, Meta AI ऐप और Canva के फ्री प्लान से AI वीडियो बना सकते हैं। Gemini का Veo मुख्य रूप से पेड प्लान में है, लेकिन Google कभी-कभी फ्री यूज़र्स को सीमित ट्रायल देता है।"
+  },
+  {
+   "q": "मोबाइल से AI वीडियो कैसे बनाएं?",
+   "a": "Gemini या Meta AI ऐप डाउनलोड करें, वीडियो विकल्प चुनें, प्रॉम्प्ट लिखें या फोटो डालें और वीडियो बनने का इंतज़ार करें। कोई कंप्यूटर नहीं चाहिए।"
+  },
+  {
+   "q": "फोटो से AI वीडियो कैसे बनाएं?",
+   "a": "वीडियो टूल में फोटो अपलोड करें और लिखें कि फोटो में क्या हिलना चाहिए — जैसे मुस्कुराना, बाल उड़ना या कैमरा ज़ूम। ऊपर दिए 'Photo to Video' प्रॉम्प्ट्स इस्तेमाल करें।"
+  },
+  {
+   "q": "क्या AI वीडियो से YouTube पर पैसे कमा सकते हैं?",
+   "a": "हाँ, लेकिन YouTube दोहराव वाले या बिना मेहनत के बने कंटेंट को मॉनेटाइज़ नहीं करता। अपनी कहानी, आवाज़ और एडिटिंग जोड़ें। ज़्यादा जानकारी के लिए पढ़ें: <a href='/ai-se-paise-kaise-kamaye/'>AI से पैसे कैसे कमाएं</a>।"
+  },
+  {
+   "q": "AI वीडियो में हिंदी आवाज़ कैसे डालें?",
+   "a": "सबसे आसान तरीका है अपनी आवाज़ में रिकॉर्ड करना। या किसी टेक्स्ट-टू-स्पीच टूल से हिंदी वॉइसओवर बनाकर वीडियो एडिटर में जोड़ें।"
+  }
+ ]
+}

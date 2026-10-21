@@ -1,0 +1,258 @@
+{
+ "slug": "gemini-ai-photo-prompt-copy-paste",
+ "category": "ai-photo-prompts",
+ "featured": true,
+ "date": "2026-10-21",
+ "title": "Gemini AI Photo Prompt Copy Paste: 25 ट्रेंडिंग प्रॉम्प्ट्स (2026)",
+ "seoTitle": "Gemini AI Photo Prompt Copy Paste – 25 Trending Prompts 2026",
+ "description": "Gemini AI photo prompt copy paste करें और अपनी फोटो को सिनेमैटिक, रेट्रो, साड़ी, कपल और 4K स्टाइल में बदलें। 25 ट्रेंडिंग प्रॉम्प्ट्स और इस्तेमाल का आसान तरीका।",
+ "keywords": "gemini ai photo prompt copy paste, gemini ai photo prompt trending, ai photo editing prompts, google gemini photo prompt, gemini prompt for boy, gemini prompt for girl",
+ "intro": "नीचे दिए गए हर प्रॉम्प्ट के साथ <b>कॉपी बटन</b> है — बस कॉपी करें, Gemini में अपनी फोटो अपलोड करें और पेस्ट करें। सभी प्रॉम्प्ट्स में चेहरा न बदलने की लाइन पहले से जोड़ी गई है, ताकि रिज़ल्ट में आप ही दिखें।",
+ "related": [
+  "gemini-ai-photo-prompt-couple",
+  "gemini-ai-photo-prompt-saree",
+  "diwali-ai-photo-prompts"
+ ],
+ "blocks": [
+  {
+   "type": "h2",
+   "id": "kaise-use-kare",
+   "text": "Gemini में फोटो प्रॉम्प्ट कैसे इस्तेमाल करें"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<b>Gemini ऐप</b> खोलें या ब्राउज़र में <b>gemini.google.com</b> पर जाएं और Google अकाउंट से लॉगिन करें।",
+    "चैट बॉक्स के पास <b>+</b> (या इमेज) आइकन पर टैप करके अपनी एक साफ़ फोटो अपलोड करें। चेहरा सामने से और अच्छी रोशनी में हो तो रिज़ल्ट सबसे अच्छा आता है।",
+    "नीचे से कोई भी प्रॉम्प्ट <b>कॉपी</b> करें और चैट बॉक्स में पेस्ट करके सेंड करें।",
+    "रिज़ल्ट पसंद न आए तो वहीं लिखें — जैसे <i>'make the lighting warmer'</i> या <i>'keep my face more similar'</i>। Gemini उसी फोटो को दोबारा एडिट कर देगा।",
+    "फोटो पर टैप करके <b>डाउनलोड</b> करें।"
+   ]
+  },
+  {
+   "type": "note",
+   "title": "सबसे ज़रूरी टिप",
+   "html": "अगर चेहरा बदल रहा है, तो प्रॉम्प्ट के आख़िर में यह लाइन जोड़ें: <i>Keep the face, facial features and skin tone exactly identical to the uploaded photo. Do not change the person.</i> हमारे सभी प्रॉम्प्ट्स में यह पहले से शामिल है।"
+  },
+  {
+   "type": "h2",
+   "id": "boys-prompts",
+   "text": "लड़कों के लिए ट्रेंडिंग प्रॉम्प्ट्स (Gemini Prompt for Boy)"
+  },
+  {
+   "type": "prompt",
+   "title": "सिनेमैटिक रेन पोर्ट्रेट",
+   "for": "Boy",
+   "text": "Transform this photo into a cinematic portrait of the same man standing on a rainy city street at night, wearing a black trench coat. Neon shop signs reflect on the wet road, soft rim light from behind, shallow depth of field, film grain, moody teal and orange color grading, 4K ultra-realistic. Keep the face, facial features and skin tone exactly identical to the uploaded photo. Do not change the person.",
+   "tip": "रात वाली फोटो की जगह दिन में ली गई साफ़ फोटो ज़्यादा अच्छा रिज़ल्ट देती है।"
+  },
+  {
+   "type": "prompt",
+   "title": "वाइट शर्ट क्लासी लुक",
+   "for": "Boy",
+   "text": "Create a high-end studio portrait of the person in this photo wearing a crisp white linen shirt with sleeves rolled up and a silver watch. Plain warm beige background, soft window light from the left, confident relaxed pose, magazine-cover quality, sharp details, 85mm lens look. Keep the face, hairstyle and skin tone exactly identical to the uploaded photo.",
+   "tip": "LinkedIn या Instagram प्रोफाइल फोटो के लिए बढ़िया।"
+  },
+  {
+   "type": "prompt",
+   "title": "बाइक राइडर पहाड़ों में",
+   "for": "Boy",
+   "text": "Place the man from this photo sitting on a matte black cruiser motorcycle on a mountain road in Ladakh at golden hour. He wears a brown leather jacket and aviator sunglasses pushed up on his head. Snow-capped peaks in the background, warm sunlight, dust in the air, ultra-realistic travel photography style. Keep his face exactly the same as the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "90s बॉलीवुड रेट्रो पोस्टर",
+   "for": "Boy",
+   "text": "Turn this photo into a 1990s Bollywood movie poster style portrait of the same person. Vintage film texture, slightly faded colors, dramatic side lighting, denim jacket over a white t-shirt, hand-painted poster feel with soft halo glow around the face. Do not add any text or title. Keep the face and features exactly identical to the original photo."
+  },
+  {
+   "type": "prompt",
+   "title": "ब्लैक एंड वाइट एटीट्यूड पोर्ट्रेट",
+   "for": "Boy",
+   "text": "Convert this into a dramatic black and white close-up portrait of the same man. Strong contrast, single hard light from the side creating deep shadows, plain dark background, serious confident expression, fine skin texture visible, fine-art photography style, 4K. Keep the facial features exactly the same as in the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "कुर्ता पजामा फेस्टिव लुक",
+   "for": "Boy",
+   "text": "Show the man from this photo wearing an elegant cream silk kurta with subtle golden embroidery and a matching pajama, standing in a decorated courtyard with marigold garlands and glowing diyas in the background. Warm evening light, festive Indian atmosphere, realistic photography, sharp focus on the face. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "girls-prompts",
+   "text": "लड़कियों के लिए ट्रेंडिंग प्रॉम्प्ट्स (Gemini Prompt for Girl)"
+  },
+  {
+   "type": "prompt",
+   "title": "रेट्रो विंटेज साड़ी लुक",
+   "for": "Girl",
+   "text": "Transform the woman in this photo into a vintage 1970s Bollywood-style portrait. She wears a chiffon polka-dot saree with a sleeveless blouse, hair styled in soft retro curls with a small flower, warm golden light, grainy film texture, soft focus background of an old-style studio backdrop. Keep her face, features and skin tone exactly identical to the uploaded photo.",
+   "tip": "पूरे साड़ी कलेक्शन के लिए हमारा <a href='/gemini-ai-photo-prompt-saree/'>साड़ी प्रॉम्प्ट्स</a> पेज देखें।"
+  },
+  {
+   "type": "prompt",
+   "title": "गोल्डन आवर फील्ड पोर्ट्रेट",
+   "for": "Girl",
+   "text": "Place the woman from this photo in a sunflower field during golden hour. She wears a flowing white cotton dress, hair gently moving in the wind, sunlight creating a warm glow and lens flare behind her, dreamy soft-focus background, natural candid smile, ultra-realistic photography. Keep her face exactly the same as the original photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पोलरॉइड स्टाइल फोटो",
+   "for": "Girl",
+   "text": "Create a Polaroid instant photo of the person in this image, slightly tilted on a wooden table with fairy lights around it. Inside the Polaroid frame, she is smiling against a plain white curtain with soft flash lighting typical of instant cameras, slight blur and warm tones. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "कॉफी शॉप कैंडिड",
+   "for": "Girl",
+   "text": "Show the woman from this photo sitting by a large window in a cozy cafe, holding a cup of coffee with both hands, wearing an oversized beige sweater. Rainy day outside the window, soft natural light, warm tones, candid aesthetic Instagram style, shallow depth of field. Keep her face and features exactly the same as the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "रॉयल राजस्थानी लुक",
+   "for": "Girl",
+   "text": "Transform the woman in this photo into a royal Rajasthani look. She wears a deep red lehenga with heavy gold zari work, traditional kundan jewellery and a dupatta over her head, standing in a palace corridor with carved arches and soft sunlight streaming in. Realistic, rich colors, 4K detail. Keep her face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "मिरर सेल्फी एस्थेटिक",
+   "for": "Girl",
+   "text": "Recreate this person taking a mirror selfie in a minimal aesthetic bedroom with beige walls, a small plant and warm lamp light. She holds a phone covering part of her chin, wears a casual oversized shirt, natural relaxed pose, iPhone photo quality, soft shadows. Keep her face clearly visible and exactly the same as the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "creative-prompts",
+   "text": "क्रिएटिव और वायरल प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "3D कार्टून फिगर (डेस्क पर)",
+   "for": "All",
+   "text": "Create a realistic 1/7 scale collectible figure of the person in this photo, standing on a round transparent acrylic base on a computer desk. Next to it is a printed box packaging with the same character illustration. Soft indoor lighting, realistic plastic and paint texture, sharp photography. Keep the facial features recognisable and identical to the uploaded photo.",
+   "tip": "यह 2025 से सबसे वायरल ट्रेंड में से एक है।"
+  },
+  {
+   "type": "prompt",
+   "title": "बचपन की फोटो के साथ आज की फोटो",
+   "for": "All",
+   "text": "Using the two uploaded photos, create a heartwarming image where the present-day adult person is gently hugging their younger childhood self. Same face as the adult photo for the adult, same face as the child photo for the child. Soft warm studio light, plain cream background, realistic photo, emotional and natural expression.",
+   "tip": "इसके लिए दो फोटो अपलोड करें — एक बचपन की और एक आज की।"
+  },
+  {
+   "type": "prompt",
+   "title": "पुरानी फोटो को नया बनाएं (Restore)",
+   "for": "All",
+   "text": "Restore this old photo. Remove scratches, dust, folds and stains, fix the faded colors and add natural realistic color, improve sharpness and clarity while keeping every face, expression, clothing and background detail exactly the same. Do not add or remove any person.",
+   "tip": "दादा-दादी की पुरानी फोटो के लिए बेहतरीन।"
+  },
+  {
+   "type": "prompt",
+   "title": "अनीमे स्टाइल पोर्ट्रेट",
+   "for": "All",
+   "text": "Redraw this photo as a high-quality Japanese anime style illustration. Soft cel shading, vibrant colors, detailed eyes, a peaceful city rooftop at sunset in the background. Keep the hairstyle, clothing colors and overall facial structure recognisable as the same person."
+  },
+  {
+   "type": "prompt",
+   "title": "मैगज़ीन कवर",
+   "for": "All",
+   "text": "Turn this photo into a fashion magazine cover shoot of the same person. Professional studio lighting, clean pastel background, stylish outfit, confident pose, high-end editorial look, ultra sharp 4K. Leave empty space at the top for a title but do not write any text. Keep the face exactly identical to the original."
+  },
+  {
+   "type": "prompt",
+   "title": "बारिश में छाता लेकर",
+   "for": "All",
+   "text": "Show the person from this photo walking with a transparent umbrella on a rainy street in Mumbai during monsoon, colorful blurred lights in the background, raindrops visible on the umbrella, cinematic soft light, realistic photography. Keep the face exactly the same as the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "ट्रेन की खिड़की वाली फोटो",
+   "for": "All",
+   "text": "Place the person from this photo sitting by the window of an Indian train, looking outside with a calm expression, warm sunlight falling on the face, green fields passing outside with motion blur, nostalgic film photography style. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "क्रिकेट स्टेडियम हीरो",
+   "for": "All",
+   "text": "Show the person from this photo wearing an Indian cricket team style blue jersey without any logo, holding a cricket bat raised in celebration in a packed stadium at night. Floodlights, cheering crowd blurred in the background, dynamic sports photography, realistic. Keep the face exactly identical to the original photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पहाड़ों पर कैंपिंग",
+   "for": "All",
+   "text": "Place the person from this photo sitting beside a campfire outside a tent in the mountains at night, wrapped in a warm blanket, starry sky and the Milky Way above, warm firelight on the face, cinematic realistic photography. Keep the face exactly the same as the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पेंसिल स्केच",
+   "for": "All",
+   "text": "Convert this photo into a detailed realistic graphite pencil sketch on textured white paper. Fine shading, visible pencil strokes, accurate likeness of the face, artistic hand-drawn feel, a pencil and eraser lying near the corner of the paper."
+  },
+  {
+   "type": "prompt",
+   "title": "पासपोर्ट / प्रोफेशनल हेडशॉट",
+   "for": "All",
+   "text": "Turn this into a clean professional headshot of the same person. Plain light grey background, even soft lighting, formal clothing, neutral pleasant expression, shoulders visible, sharp focus, natural skin texture without heavy smoothing. Keep the face exactly identical to the uploaded photo.",
+   "tip": "सरकारी दस्तावेज़ों के लिए हमेशा असली फोटो का इस्तेमाल करें — AI फोटो वहां मान्य नहीं हो सकती।"
+  },
+  {
+   "type": "prompt",
+   "title": "विंटर स्नोफॉल लुक",
+   "for": "All",
+   "text": "Show the person from this photo standing in gentle snowfall in a pine forest, wearing a red woolen scarf and a long grey coat, snowflakes on the hair, soft overcast light, cinematic winter mood, realistic 4K. Keep the face exactly identical to the original photo."
+  },
+  {
+   "type": "prompt",
+   "title": "बर्थडे सेलिब्रेशन फोटो",
+   "for": "All",
+   "text": "Show the person from this photo celebrating their birthday, smiling while about to blow out candles on a beautiful cake, colorful balloons and warm fairy lights in the background, confetti in the air, cheerful party mood, realistic photography with soft warm light. Keep the face exactly identical to the uploaded photo.",
+   "tip": "केक पर नाम लिखवाना हो तो AI की जगह बाद में फोटो एडिटर में लिखें।"
+  },
+  {
+   "type": "h2",
+   "id": "better-results",
+   "text": "बेहतर रिज़ल्ट के लिए 6 टिप्स"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<b>फोटो साफ़ हो:</b> चेहरा कैमरे की तरफ हो, चश्मा या मास्क न हो, और रोशनी अच्छी हो।",
+    "<b>एक बार में एक बदलाव:</b> रिज़ल्ट आने के बाद छोटे-छोटे बदलाव अलग से मांगें।",
+    "<b>अंग्रेज़ी में प्रॉम्प्ट:</b> Gemini हिंदी भी समझता है, लेकिन इमेज प्रॉम्प्ट अंग्रेज़ी में ज़्यादा सटीक काम करते हैं।",
+    "<b>चेहरा बदल जाए तो:</b> लिखें <i>'keep my face exactly the same as the uploaded photo'</i>।",
+    "<b>हाथ या उंगलियां अजीब दिखें तो:</b> लिखें <i>'fix the hands, natural five fingers'</i>।",
+    "<b>दूसरों की फोटो:</b> किसी और की फोटो उसकी अनुमति के बिना एडिट न करें।"
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "chatgpt-me",
+   "text": "क्या ये प्रॉम्प्ट्स ChatGPT में भी चलते हैं?"
+  },
+  {
+   "type": "p",
+   "html": "हाँ। ये सभी प्रॉम्प्ट्स ChatGPT में भी काम करते हैं — फोटो अपलोड करें और प्रॉम्प्ट पेस्ट करें। आमतौर पर Gemini चेहरा ज़्यादा सटीक बनाए रखता है, जबकि ChatGPT का स्टाइल ज़्यादा आर्टिस्टिक होता है। दोनों में आज़माकर देखें।"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Gemini AI photo prompt copy paste कैसे करें?",
+   "a": "ऊपर दिए किसी भी प्रॉम्प्ट के नीचे 'प्रॉम्प्ट कॉपी करें' बटन दबाएं, Gemini ऐप में अपनी फोटो अपलोड करें, प्रॉम्प्ट पेस्ट करें और सेंड करें।"
+  },
+  {
+   "q": "क्या Gemini से फोटो एडिट करना फ्री है?",
+   "a": "हाँ, Gemini में फोटो एडिटिंग फ्री अकाउंट से भी होती है, लेकिन रोज़ की एक लिमिट होती है। लिमिट पूरी होने पर अगले दिन फिर से इस्तेमाल कर सकते हैं।"
+  },
+  {
+   "q": "Gemini फोटो में मेरा चेहरा क्यों बदल जाता है?",
+   "a": "प्रॉम्प्ट में साफ़ लिखें कि चेहरा न बदले, और सामने से ली गई साफ़ फोटो इस्तेमाल करें। हमारे सभी प्रॉम्प्ट्स में यह लाइन पहले से जुड़ी है।"
+  },
+  {
+   "q": "क्या AI से बनी फोटो Instagram पर डाल सकते हैं?",
+   "a": "हाँ, अपनी फोटो को एडिट करके आप पोस्ट कर सकते हैं। Instagram कुछ AI इमेज पर 'AI info' लेबल लगा सकता है।"
+  },
+  {
+   "q": "नए ट्रेंडिंग प्रॉम्प्ट्स कहाँ मिलेंगे?",
+   "a": "हम यह पेज हर हफ्ते अपडेट करते हैं और त्योहारों के लिए अलग पेज बनाते हैं, जैसे <a href='/diwali-ai-photo-prompts/'>दिवाली AI फोटो प्रॉम्प्ट्स</a>।"
+  }
+ ]
+}

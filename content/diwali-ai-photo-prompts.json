@@ -1,0 +1,198 @@
+{
+ "slug": "diwali-ai-photo-prompts",
+ "category": "ai-photo-prompts",
+ "featured": true,
+ "date": "2026-10-21",
+ "title": "Diwali AI Photo Prompts 2026: Gemini के लिए 15 दिवाली प्रॉम्प्ट्स (Copy Paste)",
+ "seoTitle": "Diwali AI Photo Prompts 2026 – Gemini Copy Paste (15 Prompts)",
+ "description": "दिवाली 2026 (8 नवंबर) के लिए Gemini AI photo prompt copy paste — दीयों के साथ, कपल, फैमिली, साड़ी, कुर्ता और रंगोली वाले 15 प्रॉम्प्ट्स।",
+ "keywords": "diwali ai photo prompt, gemini ai photo prompt copy paste diwali, diwali ai photo editing prompt, diwali couple prompt, diwali look gemini prompt",
+ "intro": "दिवाली इस साल <b>रविवार, 8 नवंबर 2026</b> को है। अपनी फोटो को दीयों, रंगोली और फेस्टिव कपड़ों के साथ खूबसूरत दिवाली पोस्ट में बदलने के लिए ये 15 प्रॉम्प्ट्स कॉपी करें — Gemini और ChatGPT दोनों में काम करते हैं।",
+ "related": [
+  "gemini-ai-photo-prompt-copy-paste",
+  "chhath-puja-ai-photo-prompts",
+  "gemini-ai-photo-prompt-couple"
+ ],
+ "blocks": [
+  {
+   "type": "table",
+   "head": [
+    "त्योहार",
+    "तारीख (2026)"
+   ],
+   "rows": [
+    [
+     "धनतेरस",
+     "शुक्रवार, 6 नवंबर"
+    ],
+    [
+     "छोटी दिवाली",
+     "शनिवार, 7 नवंबर"
+    ],
+    [
+     "दिवाली (लक्ष्मी पूजा)",
+     "रविवार, 8 नवंबर"
+    ],
+    [
+     "गोवर्धन पूजा",
+     "मंगलवार, 10 नवंबर"
+    ],
+    [
+     "भाई दूज",
+     "11 नवंबर"
+    ]
+   ]
+  },
+  {
+   "type": "note",
+   "html": "इस्तेमाल का तरीका: Gemini में अपनी फोटो अपलोड करें → नीचे से प्रॉम्प्ट कॉपी करके पेस्ट करें → सेंड करें। पूरा तरीका हमारी <a href='/gemini-ai-photo-prompt-copy-paste/'>Gemini फोटो प्रॉम्प्ट गाइड</a> में है।"
+  },
+  {
+   "type": "h2",
+   "id": "single-prompts",
+   "text": "अकेले की फोटो के लिए दिवाली प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "दीयों के बीच साड़ी में",
+   "for": "Girl",
+   "text": "Transform the woman in this photo into a Diwali portrait. She wears a rich maroon silk saree with a golden border and traditional gold jhumkas, sitting on a decorated floor surrounded by dozens of glowing clay diyas and a colorful flower rangoli. Warm golden candlelight on her face, bokeh of fairy lights in the background, festive night atmosphere, ultra-realistic 4K. Keep her face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "कुर्ते में दीया जलाते हुए",
+   "for": "Boy",
+   "text": "Show the man from this photo wearing a mustard yellow silk kurta, lighting a clay diya with a matchstick on the balcony of an Indian house on Diwali night. Strings of warm lights hang on the railing, fireworks glowing softly in the distant sky, warm light on his face, cinematic realistic photography. Keep his face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "रंगोली बनाते हुए",
+   "for": "Girl",
+   "text": "Show the woman from this photo sitting on the floor making a large colorful peacock rangoli with her hands, wearing a pastel green anarkali suit. Diyas placed around the rangoli, marigold torans on the door behind her, warm evening light, candid joyful expression, realistic photography from a slightly high angle. Keep her face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "फुलझड़ी के साथ",
+   "for": "All",
+   "text": "Show the person from this photo holding a lit sparkler (phuljhadi) on Diwali night, golden sparks lighting up their smiling face, wearing festive Indian ethnic clothes, dark night background with blurred string lights, long-exposure sparkle trails, cinematic realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "लक्ष्मी पूजा थाली के साथ",
+   "for": "All",
+   "text": "Show the person from this photo in traditional festive attire holding a decorated brass pooja thali with a lit diya, kumkum, rice and flowers, standing in front of a beautifully decorated home temple with marigold flowers and glowing lamps. Soft warm devotional lighting, peaceful expression, realistic 4K. Keep the face exactly identical to the original photo."
+  },
+  {
+   "type": "prompt",
+   "title": "दिवाली विंटेज पोस्टर",
+   "for": "All",
+   "text": "Turn this photo into a vintage 1980s Indian Diwali greeting card illustration of the same person. Hand-painted style, warm saturated colors, decorative diya borders, soft golden halo, nostalgic paper texture. Leave space at the bottom for a greeting but do not write any text. Keep the face recognisable as the same person."
+  },
+  {
+   "type": "h2",
+   "id": "couple-prompts",
+   "text": "कपल के लिए दिवाली प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "कपल दीया पोर्ट्रेट",
+   "for": "Couple",
+   "text": "Using this photo of the couple, create a romantic Diwali portrait. The woman wears a red and gold silk saree, the man wears a cream sherwani-style kurta. They are sitting close together on decorated floor cushions, both holding one glowing diya between their hands, surrounded by more diyas and rose petals. Warm golden light, soft bokeh, ultra-realistic. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "बालकनी में आतिशबाज़ी देखते हुए",
+   "for": "Couple",
+   "text": "Show the couple from this photo standing on a rooftop terrace on Diwali night, the man's arm around the woman, both looking up at colorful fireworks lighting the sky. Fairy lights on the terrace railing, festive ethnic outfits, view from slightly behind and to the side so their faces are visible in profile, cinematic realistic photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पहली दिवाली (शादी के बाद)",
+   "for": "Couple",
+   "text": "Create a 'first Diwali after marriage' portrait of the couple in this photo. The woman wears a heavy bridal-style red saree with sindoor and mangalsutra, the man wears a royal blue kurta with a pocket square. They stand at a doorway decorated with marigold torans and a rangoli at their feet, holding a pooja thali together. Warm festive light, realistic 4K. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "family-prompts",
+   "text": "फैमिली और भाई-बहन के लिए प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "पूरी फैमिली दिवाली फोटो",
+   "for": "Family",
+   "text": "Using this family photo, create a warm Diwali family portrait. Everyone wears coordinated festive ethnic clothing in shades of gold, maroon and cream. The family is gathered in a decorated living room with diyas, a large rangoli in front, marigold garlands and soft fairy lights behind. Natural happy expressions, warm lighting, realistic photography. Keep every person's face exactly identical to the uploaded photo and do not add or remove anyone."
+  },
+  {
+   "type": "prompt",
+   "title": "भाई दूज टीका",
+   "for": "Siblings",
+   "text": "Using this photo of a brother and sister, create a Bhai Dooj scene. The sister applies a red tilak on her brother's forehead while holding a decorated thali with a diya and sweets. Both wear festive Indian clothes, warm home lighting, marigold decorations, joyful candid expressions, realistic 4K. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "मां-बेटी दीया सजाते हुए",
+   "for": "Family",
+   "text": "Show the mother and daughter from this photo sitting together painting and decorating clay diyas with colors on a table covered with flowers and paint bowls. Both wear simple festive suits, warm afternoon light, candid smiling moment, realistic photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "greeting-prompts",
+   "text": "बिना फोटो के दिवाली विश इमेज"
+  },
+  {
+   "type": "p",
+   "html": "अपनी फोटो के बिना भी आप WhatsApp स्टेटस या बिज़नेस पोस्ट के लिए दिवाली इमेज बना सकते हैं:"
+  },
+  {
+   "type": "prompt",
+   "title": "मिनिमल दिवाली स्टेटस इमेज",
+   "for": "Status",
+   "text": "Create a minimal elegant Diwali greeting image in vertical 9:16 format. A single glowing clay diya on a deep maroon background with soft golden bokeh lights and a subtle mandala pattern. Leave clean empty space in the upper half for text. No text in the image."
+  },
+  {
+   "type": "prompt",
+   "title": "दुकान / बिज़नेस के लिए दिवाली पोस्टर",
+   "for": "Business",
+   "text": "Create a festive Diwali sale poster background in square 1:1 format. Rich purple and gold colors, glowing diyas along the bottom, hanging lanterns at the top, gold sparkle accents, clean empty center area for adding a shop name and offer text later. No text in the image, high resolution.",
+   "tip": "टेक्स्ट बाद में Canva में जोड़ें — AI इमेज में हिंदी टेक्स्ट अक्सर गलत बनता है।"
+  },
+  {
+   "type": "prompt",
+   "title": "लक्ष्मी-गणेश दिवाली विश",
+   "for": "Status",
+   "text": "Create a beautiful devotional Diwali image of golden idols of Goddess Lakshmi and Lord Ganesha placed on a decorated altar with marigold flowers, lotus petals, gold coins and many glowing diyas. Warm divine golden light, soft smoke from incense, rich realistic detail, vertical 4:5 format, no text."
+  },
+  {
+   "type": "h2",
+   "id": "tips",
+   "text": "दिवाली फोटो के लिए ज़रूरी टिप्स"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "कपल या फैमिली फोटो में सभी के चेहरे साफ़ दिखने चाहिए — ग्रुप जितना छोटा, रिज़ल्ट उतना सटीक।",
+    "रिज़ल्ट में किसी का चेहरा बदल जाए तो लिखें: <i>'the second person's face changed, keep it identical to the original'</i>।",
+    "अगर दीयों की रोशनी बहुत कम लगे तो लिखें: <i>'make the diya light brighter and warmer'</i>।",
+    "AI इमेज में लिखा हिंदी टेक्स्ट अक्सर गलत बनता है — 'Happy Diwali' जैसा टेक्स्ट बाद में Canva या किसी फोटो एडिटर में जोड़ें।"
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "दिवाली 2026 कब है?",
+   "a": "दिवाली (लक्ष्मी पूजा) 2026 में रविवार, 8 नवंबर को है। धनतेरस 6 नवंबर और भाई दूज 11 नवंबर को है।"
+  },
+  {
+   "q": "दिवाली AI फोटो किस ऐप से बनाएं?",
+   "a": "Google Gemini सबसे आसान और फ्री विकल्प है। ये प्रॉम्प्ट्स ChatGPT और Meta AI में भी काम करते हैं।"
+  },
+  {
+   "q": "क्या कपल फोटो के लिए दोनों की फोटो अलग-अलग चाहिए?",
+   "a": "नहीं, एक ही फोटो जिसमें दोनों के चेहरे साफ़ दिख रहे हों, काफी है। चाहें तो दो अलग फोटो अपलोड करके लिख सकते हैं कि दोनों को एक साथ दिखाओ।"
+  },
+  {
+   "q": "AI फोटो पर Happy Diwali कैसे लिखें?",
+   "a": "AI से बनी फोटो डाउनलोड करें और Canva, PicsArt या फोन के फोटो एडिटर में टेक्स्ट जोड़ें। इससे हिंदी अक्षर बिल्कुल सही आएंगे।"
+  }
+ ]
+}
