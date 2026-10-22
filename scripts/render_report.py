@@ -120,6 +120,23 @@ def build_vars(d):
         "DEPLOY_URL": "https://app.netlify.com/projects/aiprompthindi/deploys",
     }
 
+def plain_text(d):
+    lh = d.get("lighthouse", {})
+    L = [f'AI Prompt Hindi – {d.get("report_type","Daily")} report – {d["report_date"]}', "", d["headline"]]
+    if d.get("summary"): L.append(d["summary"])
+    L += ["", f'Deploy: {"live" if d.get("deploy_ok") else "FAILED"} · commit {d.get("live_commit","—")} · pages live {d.get("pages_live","—")}',
+          f'Google search ({d.get("traffic_period","Yesterday")}, {d.get("traffic_source","not connected")}): clicks {d.get("clicks","—")}, impressions {d.get("impressions","—")}, CTR {d.get("ctr","—")}, avg position {d.get("avg_position","—")}',
+          f'Forecast: {d.get("forecast_status","Too early")} – expected {d.get("forecast_expected","—")}. {d.get("forecast_note","")}',
+          f'Lighthouse: performance {lh.get("performance","—")}, accessibility {lh.get("accessibility","—")}, best practices {lh.get("best_practices","—")}, SEO {lh.get("seo","—")}', "", "Published:"]
+    L += [f'- {p["title"]} – {p["url"]}' for p in d.get("published", [])] or ["- nothing new"]
+    L += ["", "Fixes:"] + ([f"- {x}" for x in d.get("fixes", [])] or ["- none needed"])
+    if d.get("awaiting_approval"):
+        L += ["", "Awaiting your approval:"] + [f'- {a["title"]} – {a["url"]}' for a in d["awaiting_approval"]]
+    L += ["", f'Next up: {d.get("next_opportunity","")}']
+    if d.get("owner_action"): L += [f'Action for you: {d["owner_action"]}']
+    L += ["", d.get("site_url", "https://aiprompthindi.netlify.app/")]
+    return "\n".join(L)
+
 def subject(d):
     return f'AI Prompt Hindi {d.get("report_type","Daily").lower()} – {d["report_date"]} – {d["headline"]}'
 
@@ -138,5 +155,6 @@ if __name__ == "__main__":
     d = json.loads(src.read_text(encoding="utf-8"))
     out, v = render(d)
     src.with_suffix(".html").write_text(out, encoding="utf-8")
+    src.with_suffix(".txt").write_text(plain_text(d), encoding="utf-8")
     src.with_suffix(".vars.json").write_text(json.dumps({"subject": subject(d), "variables": v}, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"Wrote {src.with_suffix('.html')} and {src.with_suffix('.vars.json')}  ·  subject: {subject(d)}")

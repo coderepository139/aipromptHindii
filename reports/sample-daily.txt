@@ -1,0 +1,25 @@
+AI Prompt Hindi – Daily report – 22 Oct 2026
+
+SAMPLE – 2 posts live, accessibility now 100
+Example data showing how the report looks. Real reports are filled in by the daily scheduled task.
+
+Deploy: live · commit 6afd1d3 · pages live 11
+Google search (Yesterday, Not connected yet – add Search Console): clicks —, impressions —, CTR —, avg position —
+Forecast: Too early – expected 3. The site is 1 day old. Google usually starts showing new pages within 3–10 days.
+Lighthouse: performance 100, accessibility 100, best practices 100, SEO 100
+
+Published:
+- Karwa Chauth AI Photo Prompts 2026: Gemini के लिए 12 प्रॉम्प्ट्स – https://aiprompthindi.netlify.app/karwa-chauth-ai-photo-prompts/
+- Gemini AI Photo Prompt for Boy: 20 ट्रेंडिंग प्रॉम्प्ट्स – https://aiprompthindi.netlify.app/gemini-ai-photo-prompt-for-boy/
+
+Fixes:
+- Darkened the orange accent so small text meets the 4.5:1 contrast standard
+- Logo link label now matches its visible text for screen readers
+
+Awaiting your approval:
+- New 'Popular prompts' row on the home page – https://deploy-preview-1--aiprompthindi.netlify.app/
+
+Next up: Dhanteras (6 Nov) prompts – needs to be live by 27 Oct to rank in time.
+Action for you: Connect Google Search Console so this report can show real clicks and rankings.
+
+https://aiprompthindi.netlify.app/
