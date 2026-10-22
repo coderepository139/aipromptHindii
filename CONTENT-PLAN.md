@@ -8,8 +8,8 @@ Status legend: [ ] todo · [x] published (date)
 
 ## Week 1 (22–28 Oct)
 - [ ] karwa-chauth-ai-photo-prompts — Karwa Chauth 29 Oct (verify date)
-- [ ] dhanteras-ai-photo-prompts — 6 Nov
-- [ ] bhai-dooj-ai-photo-prompts — verify date (10 or 11 Nov)
+- [x] dhanteras-ai-photo-prompts — 6 Nov (verified: goodreturns, dekhopanchang) (2026-10-22)
+- [x] bhai-dooj-ai-photo-prompts — 11 Nov (verified: drikpanchang, dekhopanchang, shubhpanchang; goodreturns says 10 Nov) (2026-10-22)
 - [ ] gemini-ai-photo-prompt-for-boy — boys/men prompts (attitude, bike, gym, formal)
 - [ ] ai-photo-editing-prompts — ChatGPT + Gemini pillar (27k/mo, SD 17)
 - [ ] gemini-ai-photo-prompt-family — father-son, mother-son, siblings
@@ -75,3 +75,4 @@ Status legend: [ ] todo · [x] published (date)
 
 ## Publishing log
 - 2026-10-21: launch — 9 articles (gemini hub, diwali, chhath, couple, saree, ai video, chatgpt, ai se kamai, ai tools list)
+- 2026-10-22: +2 posts (dhanteras-ai-photo-prompts, bhai-dooj-ai-photo-prompts); fixes: Diwali page links + Bhai Dooj weekday, singular 'प्रॉम्प्ट' on cards, logo link accessible name, email footer. Karwa Chauth (29 Oct) skipped — only 7 days away, below the 10-day rule. Scheduled run could not push; published from the main chat session.

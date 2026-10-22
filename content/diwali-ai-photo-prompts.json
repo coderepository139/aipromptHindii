@@ -39,9 +39,14 @@
     ],
     [
      "भाई दूज",
-     "11 नवंबर"
+     "बुधवार, 11 नवंबर"
     ]
    ]
+  },
+  {
+   "type": "note",
+   "title": "दीपोत्सव के बाकी दिन",
+   "html": "धनतेरस (6 नवंबर) के लिए <a href='/dhanteras-ai-photo-prompts/'>Dhanteras AI Photo Prompts</a> और भाई दूज (11 नवंबर) के लिए <a href='/bhai-dooj-ai-photo-prompts/'>Bhai Dooj AI Photo Prompts</a> भी देखें।"
   },
   {
    "type": "note",
@@ -194,5 +199,6 @@
    "q": "AI फोटो पर Happy Diwali कैसे लिखें?",
    "a": "AI से बनी फोटो डाउनलोड करें और Canva, PicsArt या फोन के फोटो एडिटर में टेक्स्ट जोड़ें। इससे हिंदी अक्षर बिल्कुल सही आएंगे।"
   }
- ]
+ ],
+ "updated": "2026-10-22"
 }

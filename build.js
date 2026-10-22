@@ -111,7 +111,7 @@ ${ga}
 <a class="skip" href="#main">मुख्य सामग्री पर जाएं</a>
 <header class="top">
   <div class="wrap top-in">
-    <a class="logo" href="/" aria-label="PromptHindi होम"><span class="mark" aria-hidden="true">AI</span><span>Prompt<b>Hindi</b></span></a>
+    <a class="logo" href="/"><span class="mark" aria-hidden="true">AI</span><span>Prompt<b>Hindi</b></span></a>
     <nav class="nav" aria-label="कैटेगरी">${nav}</nav>
     <button id="theme" class="icon-btn" aria-label="डार्क / लाइट मोड"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button>
   </div>
@@ -213,7 +213,7 @@ function card(p) {
   <span class="card-cat">${c.short}</span>
   <h3>${esc(p.title)}</h3>
   <p>${esc(p.description)}</p>
-  <span class="card-meta">${p.promptCount ? `${p.promptCount} प्रॉम्प्ट्स · ` : ""}${p.readMin} मिनट · ${fmtDate(p.updated)}</span>
+  <span class="card-meta">${p.promptCount ? `${p.promptCount} ${p.promptCount === 1 ? "प्रॉम्प्ट" : "प्रॉम्प्ट्स"} · ` : ""}${p.readMin} मिनट · ${fmtDate(p.updated)}</span>
 </a>`;
 }
 
@@ -270,7 +270,7 @@ for (const p of posts) {
       <span class="pill">${c.name}</span>
       <h1>${esc(p.title)}</h1>
       <p class="lede">${p.intro || esc(p.description)}</p>
-      <div class="byline">${cfg.author} · अपडेट: <time datetime="${p.updated}">${fmtDate(p.updated)}</time> · ${p.readMin} मिनट पढ़ें${p.promptCount ? ` · <b>${p.promptCount} प्रॉम्प्ट्स</b>` : ""}</div>
+      <div class="byline">${cfg.author} · अपडेट: <time datetime="${p.updated}">${fmtDate(p.updated)}</time> · ${p.readMin} मिनट पढ़ें${p.promptCount ? ` · <b>${p.promptCount} ${p.promptCount === 1 ? "प्रॉम्प्ट" : "प्रॉम्प्ट्स"}</b>` : ""}</div>
     </header>
     ${toc.length > 2 ? `<details class="toc" open><summary>इस पेज में</summary><ol>${toc.map(([id, t]) => `<li><a href="#${id}">${esc(t)}</a></li>`).join("")}</ol></details>` : ""}
     <div class="prose">${html}</div>

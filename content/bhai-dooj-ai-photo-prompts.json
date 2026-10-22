@@ -1,0 +1,186 @@
+{
+ "slug": "bhai-dooj-ai-photo-prompts",
+ "category": "ai-photo-prompts",
+ "date": "2026-10-22",
+ "updated": "2026-10-22",
+ "title": "Bhai Dooj AI Photo Prompts 2026: भाई-बहन के लिए 12 Gemini प्रॉम्प्ट्स",
+ "seoTitle": "Bhai Dooj AI Photo Prompts 2026 – 12 Gemini Copy Paste Prompts",
+ "description": "Bhai Dooj AI photo prompts 2026 (11 नवंबर) — तिलक, आरती, गिफ्ट, बचपन की यादें और कार्टून स्टाइल वाले भाई-बहन के 12 Gemini और ChatGPT कॉपी-पेस्ट प्रॉम्प्ट्स।",
+ "keywords": "bhai dooj ai photo prompts, bhai dooj ai photo prompt, bhai dooj photo ai, bhai dooj gemini prompt, brother sister ai photo prompt, भाई दूज फोटो प्रॉम्प्ट",
+ "intro": "भाई दूज 2026 <b>बुधवार, 11 नवंबर</b> को मनाया जाएगा। बहन भाई को तिलक लगाकर उसकी लंबी उम्र की कामना करती है — इस प्यारे पल को AI फोटो में बदलने के लिए यहां 12 प्रॉम्प्ट्स हैं। भाई-बहन की एक साथ वाली फोटो अपलोड करें और प्रॉम्प्ट कॉपी-पेस्ट करें।",
+ "related": [
+  "diwali-ai-photo-prompts",
+  "dhanteras-ai-photo-prompts",
+  "gemini-ai-photo-prompt-copy-paste"
+ ],
+ "blocks": [
+  {
+   "type": "table",
+   "head": [
+    "जानकारी",
+    "2026"
+   ],
+   "rows": [
+    [
+     "भाई दूज",
+     "बुधवार, 11 नवंबर"
+    ],
+    [
+     "द्वितीया तिथि शुरू",
+     "10 नवंबर, दोपहर 2:00 बजे (नई दिल्ली)"
+    ],
+    [
+     "द्वितीया तिथि समाप्त",
+     "11 नवंबर, दोपहर 3:53 बजे (नई दिल्ली)"
+    ]
+   ]
+  },
+  {
+   "type": "note",
+   "title": "10 या 11 नवंबर?",
+   "html": "द्वितीया तिथि 10 नवंबर दोपहर से शुरू होती है, इसलिए कुछ कैलेंडर 10 नवंबर लिखते हैं। प्रमुख पंचांगों के अनुसार भाई दूज दोपहर (अपराह्न) में द्वितीया होने के कारण 11 नवंबर को है। तिलक का मुहूर्त अपने शहर के पंचांग से देखें।"
+  },
+  {
+   "type": "h2",
+   "id": "kaise-use-kare",
+   "text": "भाई दूज AI फोटो कैसे बनाएं"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Gemini या ChatGPT खोलें।",
+    "भाई-बहन की ऐसी फोटो अपलोड करें जिसमें दोनों के चेहरे साफ़ दिखें।",
+    "नीचे से प्रॉम्प्ट कॉपी करके पेस्ट करें और सेंड करें।",
+    "अलग-अलग फोटो हों तो दोनों अपलोड करें और लिखें: <i>use the first photo for the sister and the second photo for the brother</i>।"
+   ]
+  },
+  {
+   "type": "note",
+   "html": "सिर्फ अपने परिवार की फोटो, उनकी अनुमति से इस्तेमाल करें। किसी और व्यक्ति की नकली तस्वीर न बनाएं। प्रॉम्प्ट इस्तेमाल करने का पूरा तरीका <a href='/gemini-ai-photo-prompt-copy-paste/'>Gemini फोटो प्रॉम्प्ट गाइड</a> में है।"
+  },
+  {
+   "type": "h2",
+   "id": "tilak-prompts",
+   "text": "तिलक और आरती वाले प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "तिलक लगाते हुए",
+   "for": "Siblings",
+   "text": "Using this photo of a brother and sister, show the sister applying a red kumkum tilak with rice grains on her brother's forehead on Bhai Dooj. She wears a yellow silk saree, he wears a white kurta and sits on a low wooden chowki. A brass thali with a lit diya, sweets and flowers in her other hand, marigold decorations behind, warm natural light, joyful smiles, realistic 4K photography. Keep the faces of both siblings exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "आरती उतारते हुए",
+   "for": "Siblings",
+   "text": "Show the sister from this photo performing aarti for her brother with a decorated brass thali and a glowing diya, the brother sitting with folded hands and a smile. Traditional Indian living room with rangoli on the floor and marigold torans, warm golden evening light, festive and emotional mood, cinematic realistic photography. Keep the faces of both siblings exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "मिठाई खिलाते हुए",
+   "for": "Siblings",
+   "text": "Show the brother and sister from this photo laughing as the sister feeds him a piece of sweet after the tilak ceremony on Bhai Dooj. Both in festive ethnic clothes, a thali with sweets and a diya in the foreground, soft bokeh of fairy lights in the background, candid happy moment, realistic photography. Keep the faces of both siblings exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "gift-prompts",
+   "text": "गिफ्ट और फैमिली वाले प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "गिफ्ट सरप्राइज़",
+   "for": "Siblings",
+   "text": "Show the brother from this photo surprising his sister with a beautifully wrapped gift box tied with a red ribbon on Bhai Dooj. The sister looks delighted, both wear festive Indian clothes, a decorated home with diyas and flowers behind them, warm light, candid emotional moment, realistic photography. Keep the faces of both siblings exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "भाई-बहन मैचिंग आउटफिट",
+   "for": "Siblings",
+   "text": "Create a festive portrait of the brother and sister from this photo standing side by side in colour-coordinated outfits: she in a teal lehenga with gold embroidery, he in a teal and gold kurta set. Background of a courtyard decorated with diyas and marigold garlands, his arm around her shoulder, warm golden light, magazine-style photography. Keep the faces of both siblings exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "दो बहनें, एक भाई",
+   "for": "Family",
+   "text": "Using this photo of a brother with his sisters, show both sisters applying tilak to their brother together on Bhai Dooj, each holding a small brass thali with a diya. Everyone in festive ethnic clothes, a decorated home altar behind, warm festive lighting, joyful family moment, realistic 4K. Keep every person's face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "दूर रहने वाले भाई के लिए वीडियो-कॉल फोटो",
+   "for": "Siblings",
+   "text": "Create a heartwarming split-scene image: on the left the sister from this photo holds a tilak thali with a diya in front of her phone, on the right the brother from this photo smiles on a video call from a different city. Festive decorations on her side, a simple room on his side, warm emotional lighting, realistic photography. Keep the faces of both siblings exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "creative-prompts",
+   "text": "क्रिएटिव स्टाइल प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "बचपन की याद — पुरानी फोटो स्टाइल",
+   "for": "Siblings",
+   "text": "Turn this photo of the brother and sister into a nostalgic 1990s Indian family photo of the same two people celebrating Bhai Dooj: slightly faded film colors, soft grain, a simple home with a steel thali and diya, the sister applying tilak. Warm vintage tones, authentic film-camera look. Keep the faces of both siblings exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "3D कार्टून भाई-बहन",
+   "for": "Siblings",
+   "text": "Turn the brother and sister in this photo into cute 3D animated-movie style characters celebrating Bhai Dooj: the sister applying tilak, the brother smiling, a thali with a diya and sweets between them. Soft studio lighting, vibrant festive colors, high detail render. Keep both characters clearly recognisable as the same two people with the same face shapes, hairstyles and skin tones."
+  },
+  {
+   "type": "prompt",
+   "title": "हैप्पी भाई दूज पोस्टर",
+   "for": "Siblings",
+   "text": "Create an elegant Happy Bhai Dooj greeting poster with the brother and sister from this photo in festive clothes in the lower half, surrounded by glowing diyas, marigold flowers and soft golden sparkles. Rich red, orange and gold palette, premium greeting card design. Leave empty space at the top for a greeting, but do not write any text. Keep the faces of both siblings exactly identical to the uploaded photo.",
+   "tip": "नाम और शुभकामना संदेश बाद में किसी फोटो एडिटर ऐप से जोड़ें।"
+  },
+  {
+   "type": "prompt",
+   "title": "ऑयल पेंटिंग पोर्ट्रेट",
+   "for": "Siblings",
+   "text": "Convert this photo into a classic Indian oil painting of the same brother and sister at a Bhai Dooj tilak ceremony, traditional clothes, a brass diya glowing between them. Visible brush strokes, warm earthy tones, ornate vintage vignette, museum-quality artwork. Keep the faces of both siblings exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "अकेले की फोटो — बहन के लिए",
+   "for": "Girl",
+   "text": "Create a festive Bhai Dooj portrait of the woman from this photo holding a decorated tilak thali with a lit diya, kumkum, rice and sweets, wearing a magenta silk saree with gold jewellery. Background of a doorway decorated with marigold toran and diyas, warm golden light, gentle smile, realistic 4K. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "tips",
+   "text": "बेहतर नतीजे के लिए टिप्स"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "भाई-बहन दोनों के चेहरे सामने से और साफ़ हों — धुंधली फोटो में चेहरे बदल जाते हैं।",
+    "कपड़ों का रंग प्रॉम्प्ट में बदलकर अपनी पसंद का लुक बनाएं।",
+    "छोटे बच्चों की फोटो के साथ कपड़े और माहौल सादे रखें, और फोटो सोशल मीडिया पर डालने से पहले परिवार से पूछ लें।",
+    "Instagram स्टोरी या WhatsApp स्टेटस के लिए प्रॉम्प्ट में <i>vertical 9:16 format</i> जोड़ें।"
+   ]
+  },
+  {
+   "type": "p",
+   "html": "दीपोत्सव के बाकी दिनों के लिए <a href='/dhanteras-ai-photo-prompts/'>Dhanteras AI Photo Prompts</a> और <a href='/diwali-ai-photo-prompts/'>Diwali AI Photo Prompts</a> भी देखें।"
+  }
+ ],
+ "faq": [
+  {
+   "q": "भाई दूज 2026 कब है?",
+   "a": "प्रमुख पंचांगों के अनुसार भाई दूज 2026 बुधवार, 11 नवंबर को है। द्वितीया तिथि 10 नवंबर दोपहर 2:00 बजे से 11 नवंबर दोपहर 3:53 बजे (नई दिल्ली समय) तक है।"
+  },
+  {
+   "q": "भाई और बहन की अलग-अलग फोटो हों तो क्या करें?",
+   "a": "Gemini या ChatGPT में दोनों फोटो एक साथ अपलोड करें और प्रॉम्प्ट के पहले लिखें कि पहली फोटो बहन की और दूसरी भाई की है। इससे AI दोनों को एक ही तस्वीर में रख सकता है।"
+  },
+  {
+   "q": "क्या ये प्रॉम्प्ट्स फ्री में इस्तेमाल हो सकते हैं?",
+   "a": "हां, प्रॉम्प्ट्स कॉपी करना पूरी तरह फ्री है। Gemini और ChatGPT के फ्री प्लान में इमेज बनाने की रोज़ की सीमा हो सकती है, जो कंपनियां समय-समय पर बदलती हैं।"
+  },
+  {
+   "q": "AI फोटो में चेहरा अलग क्यों दिखता है?",
+   "a": "धुंधली या साइड से ली गई फोटो, बहुत सारे लोग या बहुत बड़े बदलाव वाले प्रॉम्प्ट से चेहरा बदल सकता है। साफ़ फोटो इस्तेमाल करें और प्रॉम्प्ट की आखिरी लाइन न हटाएं।"
+  }
+ ]
+}
