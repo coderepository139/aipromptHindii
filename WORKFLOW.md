@@ -4,7 +4,7 @@
  ┌──────────────┐  edit content/*.json   ┌──────────────┐  git push main   ┌──────────────┐  webhook   ┌───────────────────────────┐
  │ Claude       │ ─────────────────────▶ │ local check  │ ───────────────▶ │ GitHub repo  │ ─────────▶ │ Netlify build             │
  │ (chat or     │                         │ build.js +   │                  │ coderepo139/ │            │ node build.js             │
- │  scheduled   │                         │ check.js     │                  │ aiprompthindi│            │ && node scripts/check.js  │
+ │  scheduled   │                         │ check.js     │                  │ aipromptHindii│            │ && node scripts/check.js  │
  │  task)       │                         └──────┬───────┘                  └──────┬───────┘            └────────────┬──────────────┘
  └──────────────┘                                │ ✗ fails → nothing pushed        │ GitHub Action                  │ ✓ passes → live in ~1 min
                                                  ▼                                 ▼ "Site check" ✓/✗               │ ✗ fails → old version stays live
@@ -32,10 +32,10 @@ A post with a future `date` is skipped by the build. To make it appear on that d
 - Git: `git revert <commit> && git push` (permanent fix; Netlify redeploys).
 
 ## One-time setup (owner)
-1. GitHub: repo `coderepository139/aiprompthindi` exists, and the Claude GitHub app has access to it (github.com/settings/installations → Claude → Configure → Repository access).
-2. Netlify: app.netlify.com/projects/aiprompthindi → Project configuration → Build & deploy → **Link repository** → GitHub → `aiprompthindi`, branch `main`. Leave build settings empty — `netlify.toml` provides them.
+1. GitHub: repo `coderepository139/aipromptHindii` exists, and the Claude GitHub app has access to it (github.com/settings/installations → Claude → Configure → Repository access).
+2. Netlify: app.netlify.com/projects/aiprompthindi → Project configuration → Build & deploy → **Link repository** → GitHub → `aipromptHindii`, branch `main`. Leave build settings empty — `netlify.toml` provides them.
 3. Optional: Netlify → Environment variables → `GA4_ID`, `GSC_TOKEN`, and `SITE_URL` once a custom domain is connected.
 
 ## Where the source lives
-- **GitHub repo** is the source of truth for the site.
+- **GitHub repo** (github.com/coderepository139/aipromptHindii) is the source of truth for the site. Status: connected to Netlify, auto-deploys on every push to `main` (verified 22 Oct 2026).
 - The claude.ai Project ("blog post") keeps a mirror under `site/` as a backup and for scheduled runs; keep it in sync after each publish.
