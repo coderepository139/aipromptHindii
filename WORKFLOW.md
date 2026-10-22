@@ -27,6 +27,9 @@ Three gates protect the live site: the local check before pushing, the GitHub Ac
 ## Scheduled posts
 A post with a future `date` is skipped by the build. To make it appear on that day without a new commit, add a Netlify **build hook** (Project configuration → Build & deploy → Build hooks) and call it daily, or just let the next publishing run rebuild the site.
 
+## Scheduled runs and GitHub access
+Scheduled runs clone and push with plain `git` — the session's git proxy authenticates them (verified 22 Oct 2026). They have no `add_repo` tool and `gh` is not logged in; neither is needed. The proxy refuses deleting remote branches, so runs never create test branches.
+
 ## Rolling back
 - Netlify: Deploys → pick an earlier deploy → **Publish deploy** (instant).
 - Git: `git revert <commit> && git push` (permanent fix; Netlify redeploys).

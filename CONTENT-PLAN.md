@@ -2,7 +2,7 @@
 
 Goal: grow organic traffic as fast as possible toward 100k visitors/day. Realistic outlook for a new domain: a few hundred to a few thousand visitors/day by mid-December, driven mostly by festival and "copy paste prompt" pages. 100k/day usually needs 6–18 months, hundreds of pages and backlinks. Track honestly against the target.
 
-Cadence: 3 new articles per publishing run (Mon/Wed/Fri) + refresh 1 existing page per run. Festival pages must go live at least 10 days before the festival.
+Cadence: daily run at 06:47 IST — 2 new articles + up to 3 fixes/refreshes per day; weekly review on Sunday adds the next 14 topics. Festival pages must go live at least 10 days before the festival.
 
 Status legend: [ ] todo · [x] published (date)
 
