@@ -14,6 +14,8 @@ const esc = (s = "") => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").r
 const abs = (p) => cfg.url.replace(/\/$/, "") + p;
 const catBySlug = Object.fromEntries(cfg.categories.map((c) => [c.slug, c]));
 const today = new Date().toISOString().slice(0, 10);
+// Netlify sets COMMIT_REF; the meta tag lets us confirm which commit is live.
+const BUILD_REF = (process.env.COMMIT_REF || "local").slice(0, 7);
 const fmtDate = (d) => new Date(d + "T00:00:00+05:30").toLocaleDateString("hi-IN", { day: "numeric", month: "long", year: "numeric" });
 const slugify = (s) => s.toLowerCase().replace(/[^a-z0-9ऀ-ॿ]+/g, "-").replace(/(^-|-$)/g, "");
 const write = (rel, data) => {
@@ -96,6 +98,7 @@ ${keywords ? `<meta name="keywords" content="${esc(keywords)}">` : ""}
 ${published ? `<meta property="article:published_time" content="${published}T08:00:00+05:30"><meta property="article:modified_time" content="${modified}T08:00:00+05:30">` : ""}
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#E8590C">
+<meta name="build" content="${BUILD_REF}">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="alternate" type="application/rss+xml" title="${cfg.name}" href="${abs("/rss.xml")}">
 ${cfg.gscVerification ? `<meta name="google-site-verification" content="${cfg.gscVerification}">` : ""}
