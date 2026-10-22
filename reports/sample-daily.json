@@ -1,0 +1,35 @@
+{
+  "report_type": "Daily",
+  "report_date": "22 Oct 2026",
+  "headline": "SAMPLE – 2 posts live, accessibility now 100",
+  "summary": "Example data showing how the report looks. Real reports are filled in by the daily scheduled task.",
+  "deploy_ok": true,
+  "live_commit": "6afd1d3",
+  "pages_live": 11,
+  "traffic_source": "Not connected yet – add Search Console",
+  "traffic_period": "Yesterday",
+  "clicks": "—",
+  "impressions": "—",
+  "ctr": "—",
+  "avg_position": "—",
+  "clicks_change": "",
+  "impressions_change": "",
+  "index_status": "0 pages indexed",
+  "forecast_expected": 3,
+  "forecast_status": "Too early",
+  "forecast_note": "The site is 1 day old. Google usually starts showing new pages within 3–10 days.",
+  "lighthouse": {"performance": 100, "accessibility": 100, "best_practices": 100, "seo": 100},
+  "published": [
+    {"title": "Karwa Chauth AI Photo Prompts 2026: Gemini के लिए 12 प्रॉम्प्ट्स", "url": "https://aiprompthindi.netlify.app/karwa-chauth-ai-photo-prompts/"},
+    {"title": "Gemini AI Photo Prompt for Boy: 20 ट्रेंडिंग प्रॉम्प्ट्स", "url": "https://aiprompthindi.netlify.app/gemini-ai-photo-prompt-for-boy/"}
+  ],
+  "fixes": [
+    "Darkened the orange accent so small text meets the 4.5:1 contrast standard",
+    "Logo link label now matches its visible text for screen readers"
+  ],
+  "awaiting_approval": [
+    {"title": "New 'Popular prompts' row on the home page", "url": "https://deploy-preview-1--aiprompthindi.netlify.app/"}
+  ],
+  "next_opportunity": "Dhanteras (6 Nov) prompts – needs to be live by 27 Oct to rank in time.",
+  "owner_action": "Connect Google Search Console so this report can show real clicks and rankings."
+}
