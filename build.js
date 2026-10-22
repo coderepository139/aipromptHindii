@@ -100,6 +100,9 @@ ${published ? `<meta property="article:published_time" content="${published}T08:
 <meta name="theme-color" content="#B93D0B">
 <meta name="build" content="${BUILD_REF}">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
 <link rel="alternate" type="application/rss+xml" title="${cfg.name}" href="${abs("/rss.xml")}">
 ${cfg.gscVerification ? `<meta name="google-site-verification" content="${cfg.gscVerification}">` : ""}
 <script>${themeBoot}</script>
@@ -111,7 +114,7 @@ ${ga}
 <a class="skip" href="#main">मुख्य सामग्री पर जाएं</a>
 <header class="top">
   <div class="wrap top-in">
-    <a class="logo" href="/"><span class="mark" aria-hidden="true">AI</span><span>Prompt<b>Hindi</b></span></a>
+    <a class="logo" href="/"><img class="mark" src="/logo.svg" width="34" height="34" alt=""><span>AI Prompt <b>हिंदी</b></span></a>
     <nav class="nav" aria-label="कैटेगरी">${nav}</nav>
     <button id="theme" class="icon-btn" aria-label="डार्क / लाइट मोड"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button>
   </div>
@@ -120,7 +123,7 @@ ${ga}
 <footer class="foot">
   <div class="wrap foot-in">
     <div>
-      <a class="logo" href="/"><span class="mark" aria-hidden="true">AI</span><span>Prompt<b>Hindi</b></span></a>
+      <a class="logo" href="/"><img class="mark" src="/logo.svg" width="34" height="34" alt=""><span>AI Prompt <b>हिंदी</b></span></a>
       <p>${cfg.tagline}. हर प्रॉम्प्ट कॉपी-पेस्ट के लिए तैयार।</p>
     </div>
     <div class="foot-links">
@@ -142,7 +145,7 @@ const orgSchema = {
   name: cfg.name,
   alternateName: cfg.nameHi,
   url: abs("/"),
-  logo: abs("/favicon.svg"),
+  logo: { "@type": "ImageObject", url: abs("/icon-512.png"), width: 512, height: 512 },
   ...(cfg.email ? { email: cfg.email } : {})
 };
 const siteSchema = {

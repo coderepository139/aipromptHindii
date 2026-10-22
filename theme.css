@@ -22,15 +22,15 @@ img{max-width:100%;height:auto}
 /* header */
 .top{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:saturate(1.4) blur(10px);border-bottom:1px solid var(--line)}
 .top-in{display:flex;align-items:center;gap:20px;height:60px}
-.logo{display:flex;align-items:center;gap:9px;font-weight:700;font-size:19px;color:var(--ink);text-decoration:none;letter-spacing:-.01em}
+.logo{display:flex;align-items:center;gap:10px;font-weight:700;font-size:19px;color:var(--ink);text-decoration:none;letter-spacing:-.01em}
 .logo b{color:var(--accent)}
-.mark{display:grid;place-items:center;width:30px;height:30px;border-radius:9px;background:var(--accent);color:var(--accent-ink);font-size:17px;line-height:1;font-size:13px;font-weight:800;letter-spacing:-.02em}
+.mark{display:block;width:34px;height:34px;flex:none;border-radius:9px}
 .nav{display:flex;gap:4px;margin-left:auto;overflow-x:auto;scrollbar-width:none}
 .nav::-webkit-scrollbar{display:none}
 .nav a{white-space:nowrap;color:var(--ink-2);text-decoration:none;font-size:15px;padding:6px 10px;border-radius:8px}
 .nav a:hover{background:var(--surface-2);color:var(--ink)}
 .icon-btn{background:none;border:1px solid var(--line);color:var(--ink-2);width:36px;height:36px;border-radius:10px;display:grid;place-items:center;cursor:pointer;flex:none}
-@media (max-width:760px){.top-in{flex-wrap:wrap;height:auto;padding:10px 0;gap:8px}.nav{order:3;width:100%;margin:0 -4px}.icon-btn{margin-left:auto}}
+@media (max-width:760px){.top-in{flex-wrap:wrap;height:auto;padding:10px 16px;gap:8px}.nav{order:3;width:calc(100% + 32px);margin:0 -16px;padding:0 12px}.icon-btn{margin-left:auto}}
 /* hero */
 .hero{border-bottom:1px solid var(--line);background:
   radial-gradient(700px 260px at 85% -40px,var(--accent-soft),transparent 70%),var(--bg)}
