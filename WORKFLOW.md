@@ -30,6 +30,8 @@ A post with a future `date` is skipped by the build. To make it appear on that d
 ## Scheduled runs and GitHub access
 Scheduled runs clone and push with plain `git` — the session's git proxy authenticates them (verified 22 Oct 2026). They have no `add_repo` tool and `gh` is not logged in; neither is needed. The proxy refuses deleting remote branches, so runs never create test branches.
 
+A scheduled task only gets GitHub access if it was created after the repo was attached to the conversation that created it. The first daily and weekly tasks (21 Oct) predated that, so the 23 Oct run's push was denied ("not in this session's authorized repository set"). Both were recreated on 23 Oct and the old ones disabled. If a run reports **PUSH FAILED**, the work is saved under `site/` in the Project. Apply it with `git am` from a chat session, then recreate the task from that chat.
+
 ## Rolling back
 - Netlify: Deploys → pick an earlier deploy → **Publish deploy** (instant).
 - Git: `git revert <commit> && git push` (permanent fix; Netlify redeploys).
