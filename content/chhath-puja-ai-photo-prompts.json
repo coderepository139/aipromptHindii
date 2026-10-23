@@ -3,6 +3,7 @@
   "category": "ai-photo-prompts",
   "featured": true,
   "date": "2026-10-21",
+  "updated": "2026-10-23",
   "title": "Chhath Puja AI Photo Prompts 2026: Gemini के लिए 10 छठ पूजा प्रॉम्प्ट्स",
   "seoTitle": "Chhath Puja AI Photo Prompt 2026 – Gemini Copy Paste",
   "description": "छठ पूजा 2026 (मुख्य दिन 15 नवंबर) के लिए Gemini AI photo prompt copy paste — घाट पर अर्घ्य, सूप, साड़ी, फैमिली और छठ विश इमेज के 10 प्रॉम्प्ट्स।",
@@ -25,6 +26,8 @@
     { "type": "prompt", "title": "दीयों से जगमगाता घाट", "for": "Status", "text": "Create a wide cinematic image of a river ghat on Chhath Puja evening, hundreds of diyas floating on the water, sugarcane canopies decorated with lights along the steps, orange sunset sky reflecting in the river, peaceful devotional mood, ultra-realistic, 16:9 format, no text." },
     { "type": "prompt", "title": "ठेकुआ और सूप क्लोज़-अप", "for": "Status", "text": "Create a close-up photograph of a traditional Chhath Puja bamboo soop filled with golden thekua, bananas, lemons, coconut, sugarcane pieces and a lit clay diya, placed on a red cloth with marigold petals. Soft warm natural light, rich texture, shallow depth of field, square 1:1 format, no text." },
     { "type": "prompt", "title": "पारंपरिक मधुबनी आर्ट स्टाइल", "for": "Art", "text": "Create a Chhath Puja illustration in traditional Madhubani folk art style from Bihar. Women in sarees standing in a river offering arghya to a stylised sun, fish and lotus motifs in the water, intricate line patterns and borders, bright natural colors on handmade paper texture. No text." },
+
+    { "type": "note", "title": "दीपोत्सव और छठ से पहले", "html": "छठ से पहले के त्योहारों के लिए <a href='/diwali-ai-photo-prompts/'>दिवाली प्रॉम्प्ट्स</a>, <a href='/govardhan-puja-ai-photo-prompts/'>गोवर्धन पूजा प्रॉम्प्ट्स</a> और <a href='/bhai-dooj-ai-photo-prompts/'>भाई दूज प्रॉम्प्ट्स</a> भी देखें।" },
 
     { "type": "h2", "id": "tips", "text": "छठ फोटो के लिए टिप्स" },
     { "type": "ul", "items": [

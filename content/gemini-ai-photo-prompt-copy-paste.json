@@ -35,6 +35,11 @@
    "html": "अगर चेहरा बदल रहा है, तो प्रॉम्प्ट के आख़िर में यह लाइन जोड़ें: <i>Keep the face, facial features and skin tone exactly identical to the uploaded photo. Do not change the person.</i> हमारे सभी प्रॉम्प्ट्स में यह पहले से शामिल है।"
   },
   {
+   "type": "note",
+   "title": "त्योहार स्पेशल प्रॉम्प्ट्स",
+   "html": "आने वाले त्योहारों के लिए अलग पेज: <a href='/dhanteras-ai-photo-prompts/'>धनतेरस (6 नवंबर)</a>, <a href='/diwali-ai-photo-prompts/'>दिवाली (8 नवंबर)</a>, <a href='/govardhan-puja-ai-photo-prompts/'>गोवर्धन पूजा (10 नवंबर)</a>, <a href='/bhai-dooj-ai-photo-prompts/'>भाई दूज (11 नवंबर)</a>, <a href='/childrens-day-ai-photo-prompts/'>बाल दिवस (14 नवंबर)</a> और <a href='/chhath-puja-ai-photo-prompts/'>छठ पूजा (15 नवंबर)</a>।"
+  },
+  {
    "type": "h2",
    "id": "boys-prompts",
    "text": "लड़कों के लिए ट्रेंडिंग प्रॉम्प्ट्स (Gemini Prompt for Boy)"
@@ -254,5 +259,6 @@
    "q": "नए ट्रेंडिंग प्रॉम्प्ट्स कहाँ मिलेंगे?",
    "a": "हम यह पेज हर हफ्ते अपडेट करते हैं और त्योहारों के लिए अलग पेज बनाते हैं, जैसे <a href='/diwali-ai-photo-prompts/'>दिवाली AI फोटो प्रॉम्प्ट्स</a>।"
   }
- ]
+ ],
+ "updated": "2026-10-23"
 }

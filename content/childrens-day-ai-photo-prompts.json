@@ -1,0 +1,210 @@
+{
+ "slug": "childrens-day-ai-photo-prompts",
+ "category": "ai-photo-prompts",
+ "date": "2026-10-23",
+ "updated": "2026-10-23",
+ "title": "Children's Day AI Photo Prompts 2026: बाल दिवस के लिए 14 Gemini प्रॉम्प्ट्स (Copy Paste)",
+ "seoTitle": "Childrens Day AI Photo Prompts 2026 – 14 Gemini Copy Paste",
+ "description": "Childrens day AI photo prompts 2026 (14 नवंबर) — ड्रीम करियर लुक, स्कूल सेलिब्रेशन, पैरेंट-चाइल्ड, बचपन की याद और कार्टून स्टाइल के 14 Gemini प्रॉम्प्ट्स।",
+ "keywords": "childrens day ai photo prompts, children's day ai photo prompt, bal diwas ai photo, childrens day gemini prompt, kids ai photo prompt copy paste, बाल दिवस फोटो प्रॉम्प्ट",
+ "intro": "बाल दिवस (Children's Day) हर साल <b>14 नवंबर</b> को पंडित जवाहरलाल नेहरू की जयंती पर मनाया जाता है, और 2026 में यह <b>शनिवार</b> को है। अपने बच्चे की फोटो को ड्रीम करियर, स्कूल सेलिब्रेशन या कार्टून स्टाइल वाली प्यारी तस्वीर में बदलने के लिए नीचे दिए 14 प्रॉम्प्ट्स कॉपी करें — बड़े लोग अपने बचपन वाले प्रॉम्प्ट्स भी आज़मा सकते हैं।",
+ "related": [
+  "gemini-ai-photo-prompt-copy-paste",
+  "bhai-dooj-ai-photo-prompts",
+  "diwali-ai-photo-prompts"
+ ],
+ "blocks": [
+  {
+   "type": "table",
+   "head": [
+    "जानकारी",
+    "2026"
+   ],
+   "rows": [
+    [
+     "बाल दिवस (Children's Day)",
+     "शनिवार, 14 नवंबर"
+    ],
+    [
+     "क्यों मनाते हैं",
+     "पंडित जवाहरलाल नेहरू की जयंती"
+    ],
+    [
+     "कहाँ मनाते हैं",
+     "स्कूल, घर और सोसाइटी में बच्चों के कार्यक्रम"
+    ]
+   ]
+  },
+  {
+   "type": "note",
+   "tone": "warn",
+   "title": "बच्चों की फोटो के साथ सावधानी",
+   "html": "सिर्फ अपने बच्चे की फोटो, या माता-पिता की अनुमति से ही किसी बच्चे की फोटो इस्तेमाल करें। बच्चों की AI फोटो पब्लिक प्रोफाइल पर डालने से पहले सोचें — परिवार या प्राइवेट ग्रुप में शेयर करना ज़्यादा सुरक्षित है। फोटो में स्कूल का नाम, घर का पता या दूसरी निजी जानकारी न दिखे।"
+  },
+  {
+   "type": "h2",
+   "id": "kaise-use-kare",
+   "text": "बाल दिवस AI फोटो कैसे बनाएं"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Gemini या ChatGPT ऐप खोलें।",
+    "बच्चे की ऐसी फोटो अपलोड करें जिसमें चेहरा साफ़ और सामने से दिखे।",
+    "नीचे से प्रॉम्प्ट कॉपी करके पेस्ट करें और सेंड करें।",
+    "पैरेंट-चाइल्ड प्रॉम्प्ट के लिए दोनों की एक साथ वाली फोटो लें, या दोनों फोटो अपलोड करके लिखें: <i>use the first photo for the parent and the second photo for the child</i>।"
+   ]
+  },
+  {
+   "type": "note",
+   "html": "प्रॉम्प्ट इस्तेमाल करने का पूरा तरीका और चेहरा न बदलने की ट्रिक हमारी <a href='/gemini-ai-photo-prompt-copy-paste/'>Gemini फोटो प्रॉम्प्ट गाइड</a> में है।"
+  },
+  {
+   "type": "h2",
+   "id": "dream-career",
+   "text": "ड्रीम करियर वाले प्रॉम्प्ट्स"
+  },
+  {
+   "type": "p",
+   "html": "बच्चे से पूछें कि वह बड़ा होकर क्या बनना चाहता है — फिर वही लुक बनाएं। बाल दिवस पर यह सबसे पसंद किया जाने वाला आइडिया है।"
+  },
+  {
+   "type": "prompt",
+   "title": "नन्हा एस्ट्रोनॉट",
+   "for": "Kids",
+   "text": "Show the child from this photo as a little astronaut in a white space suit with an Indian flag patch, holding the helmet under one arm and smiling proudly. Background of a starry sky with a rocket on a launch pad, soft cinematic lighting, cute and inspiring Children's Day portrait, realistic photography. Keep the child's face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "छोटा डॉक्टर",
+   "for": "Kids",
+   "text": "Show the child from this photo as a little doctor in a white coat with a toy stethoscope around the neck, standing in a bright, friendly clinic with colourful posters. Confident happy smile, soft natural light, cute Children's Day portrait, realistic 4K photography. Keep the child's face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "नन्हा साइंटिस्ट",
+   "for": "Kids",
+   "text": "Show the child from this photo as a young scientist in a lab coat and safety goggles, excitedly holding a bubbling flask with colourful harmless foam in a bright school science lab. Curious expression, playful mood, soft lighting, realistic photography. Keep the child's face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पायलट",
+   "for": "Kids",
+   "text": "Show the child from this photo as a little pilot in a navy uniform and cap, standing in front of a small aeroplane on a sunny airfield and giving a thumbs up. Bright blue sky, cheerful mood, realistic Children's Day portrait. Keep the child's face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "क्रिकेटर",
+   "for": "Kids",
+   "text": "Show the child from this photo as a young cricketer in a blue team jersey and helmet, holding a bat in a stadium at golden hour with a cheering crowd softly blurred in the background. Determined smile, dynamic sports photography, realistic 4K. Keep the child's face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "school-fun",
+   "text": "स्कूल और सेलिब्रेशन प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "क्लास में बाल दिवस पार्टी",
+   "for": "Kids",
+   "text": "Show the child from this photo celebrating Children's Day in a colourful classroom decorated with balloons, paper buntings and drawings on the walls, holding a small cake and laughing. School uniform, bright cheerful lighting, candid happy moment, realistic photography. Keep the child's face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "गुब्बारों के साथ",
+   "for": "Kids",
+   "text": "Create a joyful portrait of the child from this photo holding a big bunch of colourful balloons in a green park, wearing a casual festive outfit, sunshine and soft bokeh in the background, pure happiness, realistic 4K photography. Keep the child's face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पतंग और बचपन",
+   "for": "Kids",
+   "text": "Show the child from this photo flying a bright kite on a rooftop terrace in an Indian town at golden hour, wind in the hair, other kites in the sky, carefree joyful expression, warm cinematic light, realistic photography. Keep the child's face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "parent-child",
+   "text": "पैरेंट-चाइल्ड और फैमिली प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "मम्मी-पापा के साथ",
+   "for": "Family",
+   "text": "Show the parent and child from this photo sitting together on a picnic blanket in a park on Children's Day, reading a colourful storybook and laughing, balloons tied nearby. Soft afternoon light, warm candid family moment, realistic photography. Keep every person's face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "भाई-बहन बाल दिवस",
+   "for": "Kids",
+   "text": "Show the siblings from this photo in matching casual outfits having a fun Children's Day moment: blowing bubbles in a sunny garden with flowers, both laughing, bright cheerful colours, candid realistic photography. Keep every person's face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "अपने बचपन को गले लगाते हुए",
+   "for": "Adult",
+   "text": "Using the two photos I upload — first a current photo of me and second my childhood photo — create a heartwarming image of the adult version hugging the child version of the same person on a park bench. Soft golden light, gentle smiles, emotional and nostalgic mood, realistic photography. Keep both faces exactly identical to the uploaded photos.",
+   "tip": "यह प्रॉम्प्ट बड़ों के लिए है — अपनी आज की फोटो और बचपन की फोटो दोनों अपलोड करें।"
+  },
+  {
+   "type": "h2",
+   "id": "creative",
+   "text": "क्रिएटिव स्टाइल प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "3D कार्टून कैरेक्टर",
+   "for": "Kids",
+   "text": "Turn the child from this photo into a cute 3D animated-movie style character in a colourful playground with balloons and confetti, big expressive eyes, soft studio lighting, vibrant colours, high detail render. Keep the character clearly recognisable as the same child with the same face shape, hairstyle and skin tone."
+  },
+  {
+   "type": "prompt",
+   "title": "स्टोरीबुक वॉटरकलर",
+   "for": "Kids",
+   "text": "Turn this photo into a soft watercolour storybook illustration of the same child sitting under a big tree reading a book, with a friendly puppy beside them and butterflies around. Pastel colours, gentle paper texture, whimsical children's book style. Keep the child clearly recognisable with the same face, hairstyle and skin tone. Keep the child's face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "हैप्पी चिल्ड्रन्स डे पोस्टर",
+   "for": "Kids",
+   "text": "Create a bright Happy Children's Day greeting poster with the child from this photo smiling in the lower half, surrounded by balloons, stars, crayons and paper planes. Cheerful rainbow palette, playful premium design. Leave empty space at the top for a greeting but do not write any text. Keep the child's face exactly identical to the uploaded photo.",
+   "tip": "बच्चे का नाम और शुभकामना बाद में किसी फोटो एडिटर ऐप से जोड़ें।"
+  },
+  {
+   "type": "h2",
+   "id": "tips",
+   "text": "बच्चों की AI फोटो के लिए टिप्स"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "बच्चे की फोटो अच्छी रोशनी में, सामने से और बिना फिल्टर के लें — छोटे बच्चों का चेहरा AI जल्दी बदल देता है।",
+    "चेहरा बदल जाए तो लिखें: <i>keep the child's face, eyes and expression exactly the same as the uploaded photo</i>।",
+    "कपड़े और बैकग्राउंड सादे और उम्र के हिसाब से रखें।",
+    "बच्चे से पूछकर उसका पसंदीदा करियर, खेल या रंग प्रॉम्प्ट में डालें — फोटो ज़्यादा पर्सनल लगेगी।",
+    "AI फोटो को असली फोटो बताकर शेयर न करें, खासकर स्कूल या सरकारी काम में।"
+   ]
+  },
+  {
+   "type": "p",
+   "html": "परिवार के साथ और फोटो आइडिया के लिए <a href='/bhai-dooj-ai-photo-prompts/'>भाई दूज प्रॉम्प्ट्स</a> और <a href='/diwali-ai-photo-prompts/'>दिवाली प्रॉम्प्ट्स</a> देखें। बच्चों के लिए छोटी कहानी वाला वीडियो बनाना हो तो <a href='/ai-video-kaise-banaye/'>AI वीडियो कैसे बनाएं</a> गाइड पढ़ें।"
+  }
+ ],
+ "faq": [
+  {
+   "q": "बाल दिवस 2026 कब है?",
+   "a": "बाल दिवस हर साल 14 नवंबर को मनाया जाता है। 2026 में 14 नवंबर शनिवार को है।"
+  },
+  {
+   "q": "बाल दिवस 14 नवंबर को ही क्यों मनाते हैं?",
+   "a": "14 नवंबर भारत के पहले प्रधानमंत्री पंडित जवाहरलाल नेहरू की जयंती है। बच्चों से उनके लगाव की वजह से यह दिन बाल दिवस के रूप में मनाया जाता है।"
+  },
+  {
+   "q": "बच्चे की AI फोटो कैसे बनाएं?",
+   "a": "Gemini या ChatGPT में बच्चे की साफ़ फोटो अपलोड करें, इस पेज से प्रॉम्प्ट कॉपी करके पेस्ट करें और सेंड करें। सिर्फ अपने बच्चे की फोटो या माता-पिता की अनुमति से ही इस्तेमाल करें।"
+  },
+  {
+   "q": "क्या बच्चों की फोटो AI ऐप में डालना सुरक्षित है?",
+   "a": "फोटो अपलोड करने से पहले ऐप की प्राइवेसी सेटिंग्स देखें, और बनी हुई तस्वीरें पब्लिक की जगह परिवार में शेयर करें। फोटो में बच्चे का स्कूल, पता या दूसरी निजी जानकारी न दिखे।"
+  }
+ ]
+}
