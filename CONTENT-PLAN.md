@@ -10,8 +10,8 @@ Status legend: [ ] todo · [x] published (date)
 - [ ] karwa-chauth-ai-photo-prompts — Karwa Chauth 29 Oct (verify date)
 - [x] dhanteras-ai-photo-prompts — 6 Nov (verified: goodreturns, dekhopanchang) (2026-10-22)
 - [x] bhai-dooj-ai-photo-prompts — 11 Nov (verified: drikpanchang, dekhopanchang, shubhpanchang; goodreturns says 10 Nov) (2026-10-22)
-- [ ] gemini-ai-photo-prompt-for-boy — boys/men prompts (attitude, bike, gym, formal). PRIORITY: "for men" 1.6k/mo, SD 18, plus many men/man/male variants (Ubersuggest 23 Oct)
-- [ ] gemini-ai-photo-prompt-without-changing-face — fix guide for the most common complaint (added 23 Oct from keyword data)
+- [x] gemini-ai-photo-prompt-for-boy — boys/men prompts (attitude, bike, gym, formal). PRIORITY: "for men" 1.6k/mo, SD 18, plus many men/man/male variants (Ubersuggest 23 Oct) (2026-10-24)
+- [x] gemini-ai-photo-prompt-without-changing-face — fix guide for the most common complaint (added 23 Oct from keyword data) (2026-10-24)
 - [ ] gemini-ai-photo-prompt-instagram-aesthetic — "copy paste instagram" 1.6k/mo, SD 16 (added 23 Oct)
 - [ ] gemini-ai-photo-prompt-background-change — background change prompts (added 23 Oct)
 - [ ] nano-banana-prompt-hindi — Nano Banana (Gemini image model) prompts in Hindi (added 23 Oct)
@@ -83,3 +83,4 @@ Status legend: [ ] todo · [x] published (date)
 - 2026-10-21: launch — 9 articles (gemini hub, diwali, chhath, couple, saree, ai video, chatgpt, ai se kamai, ai tools list)
 - 2026-10-22: +2 posts (dhanteras-ai-photo-prompts, bhai-dooj-ai-photo-prompts); fixes: Diwali page links + Bhai Dooj weekday, singular 'प्रॉम्प्ट' on cards, logo link accessible name, email footer. Karwa Chauth (29 Oct) skipped — only 7 days away, below the 10-day rule. Scheduled run could not push; published from the main chat session.
 - 2026-10-23: +2 posts (govardhan-puja-ai-photo-prompts, childrens-day-ai-photo-prompts); fixes: festival hub links on the Gemini copy-paste page, Chhath → Diwali/Govardhan/Bhai Dooj links, AI video description trimmed to 160 chars. Diwali page now links Govardhan. Karwa Chauth (29 Oct, 6 days) skipped by the 10-day rule. GSC still not connected.
+- 2026-10-24: +2 posts (gemini-ai-photo-prompt-for-boy, gemini-ai-photo-prompt-without-changing-face); fixes: Gemini copy-paste hub links both new pages, couple page links the face guide, saree page expanded (how-to, 5 tips, festival links, +1 FAQ; 760→935 words). No festival in the 10–25 day window lacks a page (Choti Diwali skipped: sources disagree whether it is 7 or 8 Nov and it overlaps the Diwali page). GSC still not connected.

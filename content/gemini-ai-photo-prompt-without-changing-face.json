@@ -1,0 +1,270 @@
+{
+ "slug": "gemini-ai-photo-prompt-without-changing-face",
+ "category": "ai-photo-prompts",
+ "date": "2026-10-24",
+ "updated": "2026-10-24",
+ "title": "Gemini AI Photo Prompt Without Changing Face: चेहरा बदले बिना फोटो एडिट करने का तरीका (2026)",
+ "seoTitle": "Gemini AI Photo Prompt Without Changing Face – Easy Fix Guide",
+ "description": "Gemini AI photo prompt without changing face — चेहरा क्यों बदलता है, सही फोटो, 3 लेवल की फेस लाइन, फॉलो-अप फिक्स और 7 कॉपी-पेस्ट प्रॉम्प्ट्स, हिंदी में।",
+ "keywords": "gemini ai photo prompt without changing face, gemini prompt without changing face, gemini prompt not change face, gemini photo prompt without changing face, couple gemini prompt without changing face, gemini prompt for professional photo without changing face, चेहरा बदले बिना AI फोटो",
+ "intro": "Gemini में फोटो एडिट की और चेहरा किसी और जैसा बन गया? यह AI फोटो की सबसे आम शिकायत है। इस गाइड में जानिए <b>चेहरा क्यों बदलता है</b>, कौन-सी फोटो लें, प्रॉम्प्ट में कौन-सी लाइन जोड़ें, रिज़ल्ट बिगड़ने पर फॉलो-अप में क्या लिखें — साथ में चेहरा बचाकर एडिट करने वाले 7 कॉपी-पेस्ट प्रॉम्प्ट्स।",
+ "related": [
+  "gemini-ai-photo-prompt-copy-paste",
+  "gemini-ai-photo-prompt-for-boy",
+  "gemini-ai-photo-prompt-couple"
+ ],
+ "blocks": [
+  {
+   "type": "h2",
+   "id": "kyon-badalta-hai",
+   "text": "AI फोटो में चेहरा क्यों बदल जाता है?"
+  },
+  {
+   "type": "p",
+   "html": "Gemini या ChatGPT जब आपकी फोटो एडिट करता है, तो वह पुरानी फोटो के ऊपर सिर्फ फिल्टर नहीं लगाता — वह आपकी फोटो को समझकर एक नई तस्वीर बनाता है। इसी वजह से कई बार आंखें, नाक, होंठ, दाढ़ी या स्किन टोन थोड़ा अलग हो जाते हैं और फोटो 'किसी और जैसी' लगने लगती है। अच्छी बात यह है कि ज़्यादातर मामलों में यह सही फोटो और सही शब्दों से काफ़ी हद तक ठीक हो जाता है।"
+  },
+  {
+   "type": "p",
+   "html": "चेहरा बदलने की सबसे आम वजहें ये हैं:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<b>धुंधली या छोटी फोटो:</b> AI को चेहरे की डिटेल साफ़ नहीं मिलती, तो वह अपने हिसाब से भर देता है।",
+    "<b>साइड एंगल या नीचे से ली गई सेल्फी:</b> आधा चेहरा दिखता है, बाकी AI अंदाज़े से बनाता है।",
+    "<b>चश्मा, मास्क, कैप या बालों से ढका चेहरा।</b>",
+    "<b>ग्रुप फोटो:</b> कई चेहरे होने पर AI गड़बड़ा सकता है कि किसका चेहरा रखना है।",
+    "<b>बहुत बड़ा बदलाव एक साथ:</b> कपड़े, बैकग्राउंड, पोज़, उम्र और स्टाइल सब एक ही प्रॉम्प्ट में बदलने से चेहरा भी बदल जाता है।",
+    "<b>कार्टून, एनीमे या पेंटिंग स्टाइल:</b> इनमें चेहरा स्टाइल के हिसाब से ढलता है, इसलिए असली फोटो जितनी पहचान नहीं रहती।",
+    "<b>बार-बार उसी इमेज को एडिट करना:</b> हर नए एडिट में छोटे बदलाव जुड़ते जाते हैं।"
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "sahi-photo",
+   "text": "स्टेप 1: सही फोटो चुनें"
+  },
+  {
+   "type": "p",
+   "html": "रिज़ल्ट का आधा हिस्सा फोटो पर निर्भर है। प्रॉम्प्ट से पहले फोटो ठीक करें:"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "चेहरा कैमरे की तरफ सीधा हो और पूरा दिखे।",
+    "दिन की रोशनी में, खिड़की के पास ली गई फोटो सबसे अच्छी रहती है। तेज़ पीछे की रोशनी (बैकलाइट) से बचें।",
+    "ब्यूटी फिल्टर या भारी एडिट वाली फोटो न लें — AI उसी नकली स्किन को और बदल देता है।",
+    "फोटो का साइज़ छोटा न करें; ओरिजिनल हाई-क्वालिटी फोटो अपलोड करें।",
+    "सिर्फ एक व्यक्ति वाली फोटो लें। कपल फोटो के लिए दोनों के चेहरे साफ़ हों।"
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "magic-line",
+   "text": "स्टेप 2: प्रॉम्प्ट में 'चेहरा न बदलें' वाली लाइन जोड़ें"
+  },
+  {
+   "type": "p",
+   "html": "हमारे सभी प्रॉम्प्ट्स के आख़िर में यह लाइन पहले से होती है: <i>Keep the face exactly identical to the uploaded photo.</i> अगर फिर भी चेहरा बदले, तो इसे और साफ़ लिखें। नीचे तीन लेवल की लाइनें हैं — ज़रूरत के हिसाब से किसी भी प्रॉम्प्ट के आख़िर में जोड़ें:"
+  },
+  {
+   "type": "table",
+   "head": [
+    "लेवल",
+    "प्रॉम्प्ट के आख़िर में जोड़ें"
+   ],
+   "rows": [
+    [
+     "बेसिक",
+     "Keep the face exactly identical to the uploaded photo."
+    ],
+    [
+     "मज़बूत",
+     "Keep the same face, facial features, skin tone and expression as the uploaded photo. Do not change the person."
+    ],
+    [
+     "सबसे सख़्त",
+     "Do not alter the face in any way. Preserve the exact eyes, nose, lips, jawline, skin tone, hairstyle and beard from the uploaded photo. Only change the clothes and background."
+    ]
+   ]
+  },
+  {
+   "type": "note",
+   "title": "ज़रूरी",
+   "html": "सबसे सख़्त वाली लाइन में आख़िरी हिस्सा (<i>Only change the clothes and background</i>) अपने प्रॉम्प्ट के हिसाब से बदलें — जैसे <i>Only change the lighting</i> या <i>Only change the background</i>।"
+  },
+  {
+   "type": "h2",
+   "id": "ek-badlav",
+   "text": "स्टेप 3: एक बार में एक बदलाव मांगें"
+  },
+  {
+   "type": "p",
+   "html": "सब कुछ एक साथ बदलने की जगह काम को छोटे हिस्सों में बांटें। पहले बैकग्राउंड बदलवाएं, फिर कपड़े, फिर लाइटिंग। जितना छोटा बदलाव होगा, AI उतना कम चेहरे को छुएगा। नीचे दिए 'सिर्फ बैकग्राउंड' और 'सिर्फ कपड़े' वाले प्रॉम्प्ट्स इसी तरीके पर बने हैं।"
+  },
+  {
+   "type": "h2",
+   "id": "fix-prompts",
+   "text": "चेहरा बचाकर एडिट करने वाले प्रॉम्प्ट्स"
+  },
+  {
+   "type": "p",
+   "html": "ये प्रॉम्प्ट्स जानबूझकर छोटे बदलाव मांगते हैं, ताकि फोटो आपकी ही लगे। कॉपी करें, फोटो के साथ पेस्ट करें।"
+  },
+  {
+   "type": "prompt",
+   "title": "सिर्फ बैकग्राउंड बदलें",
+   "for": "All",
+   "text": "Change only the background of this photo to a soft, blurred garden with warm evening light. Do not change the person, pose, clothes or expression. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "सिर्फ कपड़े बदलें",
+   "for": "All",
+   "text": "Change only the outfit in this photo to a plain navy blue shirt. Keep the pose, background, hairstyle and expression the same. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "स्टूडियो पोर्ट्रेट (चेहरा वही)",
+   "for": "All",
+   "text": "Turn this photo into a clean studio portrait with a plain light grey background and soft professional lighting. Keep the same pose and clothes, only improve the lighting and background. Keep the face exactly identical to the uploaded photo.",
+   "tip": "सर्च में 'do not change face and make it like in studio' काफ़ी खोजा जाता है — यह वही प्रॉम्प्ट है।"
+  },
+  {
+   "type": "prompt",
+   "title": "प्रोफेशनल / LinkedIn फोटो",
+   "for": "All",
+   "text": "Make this a professional headshot: dress the person in a dark formal blazer, use a softly blurred modern office background and natural daylight. Keep the same hairstyle and natural skin texture, no beauty filter. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "सिर्फ लाइटिंग सुधारें",
+   "for": "All",
+   "text": "Improve only the lighting and colours of this photo: brighter, natural daylight tones, sharper details and reduced noise. Do not change anything else in the image. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पुरानी फोटो साफ़ करें",
+   "for": "All",
+   "text": "Restore this old photo: remove scratches, dust and fading, gently sharpen it and correct the colours to look natural. Do not add or remove any people and do not change anyone's facial features. Keep the face exactly identical to the uploaded photo.",
+   "tip": "सिर्फ अपनी या परिवार की फोटो रिस्टोर करें। ध्यान रखें कि AI रिस्टोरेशन असली फोटो की हूबहू कॉपी नहीं, बल्कि अंदाज़ा होता है।"
+  },
+  {
+   "type": "prompt",
+   "title": "कपल फोटो — दोनों चेहरे वही",
+   "for": "Couple",
+   "text": "Change only the background of this couple photo to a romantic sunset beach and add warm golden light. Keep both people, their poses and clothes exactly as they are. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "follow-up",
+   "text": "स्टेप 4: रिज़ल्ट बिगड़े तो फॉलो-अप में क्या लिखें"
+  },
+  {
+   "type": "p",
+   "html": "पहला रिज़ल्ट अच्छा न लगे तो नई चैट शुरू करने से पहले उसी चैट में ये छोटे निर्देश आज़माएं:"
+  },
+  {
+   "type": "table",
+   "head": [
+    "समस्या",
+    "फॉलो-अप में लिखें"
+   ],
+   "rows": [
+    [
+     "चेहरा किसी और जैसा लग रहा है",
+     "The face looks different. Use the exact face from my original uploaded photo."
+    ],
+    [
+     "स्किन बहुत गोरी/चिकनी हो गई",
+     "Keep my natural skin tone and skin texture, no beauty filter."
+    ],
+    [
+     "दाढ़ी या मूंछ गायब",
+     "Keep my beard and moustache exactly as in the original photo."
+    ],
+    [
+     "बाल या हेयरस्टाइल बदल गया",
+     "Keep my hairstyle and hair colour the same as the original photo."
+    ],
+    [
+     "उम्र ज़्यादा या कम दिख रही है",
+     "Keep my age the same as in the original photo."
+    ],
+    [
+     "आंखों का रंग/आकार बदला",
+     "Keep my eyes exactly the same shape and colour as the original."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "html": "अगर 2–3 फॉलो-अप के बाद भी चेहरा ठीक न हो, तो <b>नई चैट</b> में ओरिजिनल फोटो दोबारा अपलोड करें। एडिट की हुई फोटो को बार-बार एडिट करने से बदलाव बढ़ते जाते हैं, इसलिए हमेशा ओरिजिनल से शुरू करना बेहतर है।"
+  },
+  {
+   "type": "h2",
+   "id": "style-wale",
+   "text": "कार्टून और 3D स्टाइल में पहचान कैसे बचाएं"
+  },
+  {
+   "type": "p",
+   "html": "कार्टून, 3D animated-movie style या पेंटिंग जैसी फोटो में चेहरा थोड़ा बदलना स्वाभाविक है। फिर भी पहचान बचाने के लिए प्रॉम्प्ट में अपनी खास पहचान वाली चीज़ें लिखें — जैसे <i>keep my hairstyle, beard, glasses and skin tone</i>। इससे AI उन चीज़ों को कार्टून में भी बनाए रखता है और फोटो देखकर लोग आपको पहचान लेते हैं।"
+  },
+  {
+   "type": "h2",
+   "id": "gemini-ya-chatgpt",
+   "text": "Gemini या ChatGPT — किसमें चेहरा कम बदलता है?"
+  },
+  {
+   "type": "p",
+   "html": "दोनों ऐप समय-समय पर अपने इमेज मॉडल अपडेट करते रहते हैं, इसलिए कोई पक्का नियम नहीं है। हमारा सुझाव है कि एक ही फोटो और एक ही प्रॉम्प्ट दोनों में आज़माएं और जिसका रिज़ल्ट आपको ज़्यादा अपने जैसा लगे, उसी का इस्तेमाल करें। दोनों ऐप की बेसिक जानकारी हमारी <a href='/chatgpt-kaise-use-kare/'>ChatGPT कैसे इस्तेमाल करें</a> गाइड और <a href='/gemini-ai-photo-prompt-copy-paste/'>Gemini फोटो प्रॉम्प्ट गाइड</a> में है।"
+  },
+  {
+   "type": "note",
+   "tone": "warn",
+   "title": "सुरक्षा और ईमानदारी",
+   "html": "सिर्फ अपनी फोटो, या जिसकी फोटो है उसकी अनुमति से ही एडिट करें। किसी दूसरे व्यक्ति, सेलिब्रिटी या नेता का चेहरा किसी और फोटो पर लगाना (डीपफेक) गलत है और कानूनी मुसीबत में डाल सकता है। AI फोटो को सरकारी डॉक्यूमेंट, ID या असली सबूत के तौर पर कभी इस्तेमाल न करें।"
+  },
+  {
+   "type": "h2",
+   "id": "checklist",
+   "text": "जल्दी याद रखने वाली चेकलिस्ट"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "साफ़, सामने से ली गई, बिना फिल्टर वाली फोटो।",
+    "प्रॉम्प्ट के आख़िर में चेहरा न बदलने वाली लाइन।",
+    "एक बार में एक बदलाव — बैकग्राउंड, फिर कपड़े, फिर लाइटिंग।",
+    "गड़बड़ हो तो फॉलो-अप में साफ़ बताएं क्या बदला है।",
+    "2–3 कोशिशों के बाद नई चैट में ओरिजिनल फोटो से दोबारा शुरू करें।"
+   ]
+  },
+  {
+   "type": "p",
+   "html": "अब तैयार प्रॉम्प्ट्स आज़माएं: <a href='/gemini-ai-photo-prompt-for-boy/'>लड़कों के लिए प्रॉम्प्ट्स</a>, <a href='/gemini-ai-photo-prompt-saree/'>साड़ी प्रॉम्प्ट्स</a> और <a href='/gemini-ai-photo-prompt-couple/'>कपल प्रॉम्प्ट्स</a> — सभी में चेहरा न बदलने वाली लाइन पहले से जुड़ी है।"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Gemini में चेहरा बदले बिना फोटो कैसे एडिट करें?",
+   "a": "साफ़ फ्रंट फोटो अपलोड करें, एक बार में सिर्फ एक बदलाव मांगें और प्रॉम्प्ट के आख़िर में लिखें: 'Keep the face exactly identical to the uploaded photo. Do not change the person.'"
+  },
+  {
+   "q": "क्या हिंदी में प्रॉम्प्ट लिखने से चेहरा ज़्यादा बदलता है?",
+   "a": "Gemini हिंदी समझता है, लेकिन इमेज एडिटिंग के निर्देश अंग्रेज़ी में आमतौर पर ज़्यादा सटीक रहते हैं। इसलिए इस पेज की फेस-लाइन अंग्रेज़ी में दी गई है।"
+  },
+  {
+   "q": "कपल फोटो में दोनों के चेहरे कैसे बचाएं?",
+   "a": "ऐसी फोटो लें जिसमें दोनों के चेहरे साफ़ दिखें, और प्रॉम्प्ट में लिखें 'Keep both faces exactly identical to the uploaded photo'। एक बार में सिर्फ बैकग्राउंड या लाइटिंग बदलें।"
+  },
+  {
+   "q": "फॉलो-अप के बाद भी चेहरा ठीक न हो तो क्या करें?",
+   "a": "नई चैट शुरू करें और ओरिजिनल फोटो दोबारा अपलोड करें। पहले से एडिट की हुई फोटो को बार-बार एडिट करने से बदलाव बढ़ते जाते हैं।"
+  },
+  {
+   "q": "क्या किसी और का चेहरा अपनी फोटो पर लगा सकते हैं?",
+   "a": "नहीं। किसी दूसरे व्यक्ति का चेहरा उसकी अनुमति के बिना लगाना डीपफेक है — यह गलत है और कानूनी परेशानी दे सकता है। सिर्फ अपनी या अनुमति वाली फोटो एडिट करें।"
+  }
+ ]
+}

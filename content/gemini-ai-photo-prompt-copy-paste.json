@@ -32,7 +32,7 @@
   {
    "type": "note",
    "title": "सबसे ज़रूरी टिप",
-   "html": "अगर चेहरा बदल रहा है, तो प्रॉम्प्ट के आख़िर में यह लाइन जोड़ें: <i>Keep the face, facial features and skin tone exactly identical to the uploaded photo. Do not change the person.</i> हमारे सभी प्रॉम्प्ट्स में यह पहले से शामिल है।"
+   "html": "अगर चेहरा बदल रहा है, तो प्रॉम्प्ट के आख़िर में यह लाइन जोड़ें: <i>Keep the face, facial features and skin tone exactly identical to the uploaded photo. Do not change the person.</i> हमारे सभी प्रॉम्प्ट्स में यह पहले से शामिल है। फिर भी चेहरा बदले तो हमारी <a href='/gemini-ai-photo-prompt-without-changing-face/'>बिना चेहरा बदले फोटो एडिट करने की गाइड</a> देखें।"
   },
   {
    "type": "note",
@@ -43,6 +43,10 @@
    "type": "h2",
    "id": "boys-prompts",
    "text": "लड़कों के लिए ट्रेंडिंग प्रॉम्प्ट्स (Gemini Prompt for Boy)"
+  },
+  {
+   "type": "p",
+   "html": "यहाँ कुछ चुनिंदा प्रॉम्प्ट्स हैं — अटीट्यूड, बाइक, कार, जिम, सूट और कुर्ता वाले 20 प्रॉम्प्ट्स की पूरी लिस्ट हमारे <a href='/gemini-ai-photo-prompt-for-boy/'>Gemini AI Photo Prompt for Boy</a> पेज पर है।"
   },
   {
    "type": "prompt",
@@ -260,5 +264,5 @@
    "a": "हम यह पेज हर हफ्ते अपडेट करते हैं और त्योहारों के लिए अलग पेज बनाते हैं, जैसे <a href='/diwali-ai-photo-prompts/'>दिवाली AI फोटो प्रॉम्प्ट्स</a>।"
   }
  ],
- "updated": "2026-10-23"
+ "updated": "2026-10-24"
 }
