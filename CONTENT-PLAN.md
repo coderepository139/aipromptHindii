@@ -12,7 +12,7 @@ Status legend: [ ] todo · [x] published (date)
 - [x] bhai-dooj-ai-photo-prompts — 11 Nov (verified: drikpanchang, dekhopanchang, shubhpanchang; goodreturns says 10 Nov) (2026-10-22)
 - [x] gemini-ai-photo-prompt-for-boy — boys/men prompts (attitude, bike, gym, formal). PRIORITY: "for men" 1.6k/mo, SD 18, plus many men/man/male variants (Ubersuggest 23 Oct) (2026-10-24)
 - [x] gemini-ai-photo-prompt-without-changing-face — fix guide for the most common complaint (added 23 Oct from keyword data) (2026-10-24)
-- [ ] gemini-ai-photo-prompt-instagram-aesthetic — "copy paste instagram" 1.6k/mo, SD 16 (added 23 Oct)
+- [x] gemini-ai-photo-prompt-instagram-aesthetic — "copy paste instagram" 1.6k/mo, SD 16 (added 23 Oct) (2026-10-25)
 - [ ] gemini-ai-photo-prompt-background-change — background change prompts (added 23 Oct)
 - [ ] nano-banana-prompt-hindi — Nano Banana (Gemini image model) prompts in Hindi (added 23 Oct)
 - [ ] gemini-ai-photo-prompt-retro-vintage — retro / vintage / 1980 / black & white (added 23 Oct)
@@ -21,7 +21,7 @@ Status legend: [ ] todo · [x] published (date)
 - [x] govardhan-puja-ai-photo-prompts — 10 Nov (verified: drikpanchang, dekhopanchang, hindutone; bankbazaar says 9 Nov) (2026-10-23)
 
 ## Week 2 (29 Oct – 4 Nov)
-- [ ] diwali-wishes-ai-image-prompts — status/greeting images, business posters
+- [x] diwali-wishes-ai-image-prompts — status/greeting images, business posters — Diwali 8 Nov (verified: smartpuja, dekhopanchang, hindutone) (2026-10-25)
 - [ ] diwali-ai-video-kaise-banaye — festival video guide
 - [ ] old-photo-restore-ai-prompt — purani photo ko naya kaise banaye
 - [ ] gemini-ai-photo-prompt-for-girl — girls aesthetic prompts
@@ -84,3 +84,4 @@ Status legend: [ ] todo · [x] published (date)
 - 2026-10-22: +2 posts (dhanteras-ai-photo-prompts, bhai-dooj-ai-photo-prompts); fixes: Diwali page links + Bhai Dooj weekday, singular 'प्रॉम्प्ट' on cards, logo link accessible name, email footer. Karwa Chauth (29 Oct) skipped — only 7 days away, below the 10-day rule. Scheduled run could not push; published from the main chat session.
 - 2026-10-23: +2 posts (govardhan-puja-ai-photo-prompts, childrens-day-ai-photo-prompts); fixes: festival hub links on the Gemini copy-paste page, Chhath → Diwali/Govardhan/Bhai Dooj links, AI video description trimmed to 160 chars. Diwali page now links Govardhan. Karwa Chauth (29 Oct, 6 days) skipped by the 10-day rule. GSC still not connected.
 - 2026-10-24: +2 posts (gemini-ai-photo-prompt-for-boy, gemini-ai-photo-prompt-without-changing-face); fixes: Gemini copy-paste hub links both new pages, couple page links the face guide, saree page expanded (how-to, 5 tips, festival links, +1 FAQ; 760→935 words). No festival in the 10–25 day window lacks a page (Choti Diwali skipped: sources disagree whether it is 7 or 8 Nov and it overlaps the Diwali page). GSC still not connected.
+- 2026-10-25: +2 posts (diwali-wishes-ai-image-prompts, gemini-ai-photo-prompt-instagram-aesthetic); fixes: Diwali page → wishes page link, Gemini copy-paste hub and for-boy page → Instagram aesthetic link. Diwali (8 Nov, 14 days) was the only festival in the 10–25 day window without a greeting-image page; Karwa Chauth (29 Oct) skipped by the 10-day rule. Ubersuggest autocomplete shows demand for 'diwali ai photo prompt boy/girl/couple'. Netlify connector needs re-auth; GSC still not connected.

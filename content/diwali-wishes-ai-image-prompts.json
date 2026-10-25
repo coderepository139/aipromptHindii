@@ -1,0 +1,229 @@
+{
+ "slug": "diwali-wishes-ai-image-prompts",
+ "category": "ai-photo-prompts",
+ "date": "2026-10-25",
+ "updated": "2026-10-25",
+ "title": "Diwali Wishes AI Image Prompts: हैप्पी दिवाली ग्रीटिंग इमेज के 16 प्रॉम्प्ट्स (Copy Paste 2026)",
+ "seoTitle": "Diwali Wishes AI Image Prompts 2026 – 16 Copy Paste Prompts",
+ "description": "Diwali wishes AI image prompts — अपनी फोटो वाले ग्रीटिंग कार्ड, फैमिली विश, WhatsApp स्टेटस, बिज़नेस पोस्टर और बिना फोटो वाली दिवाली इमेज के 16 प्रॉम्प्ट्स।",
+ "keywords": "diwali wishes ai image prompts, happy diwali ai images prompt, diwali greeting ai image prompt, diwali wishes image gemini prompt, diwali whatsapp status ai image, diwali business poster ai prompt, दिवाली विश इमेज प्रॉम्प्ट",
+ "intro": "दिवाली (रविवार, 8 नवंबर 2026) पर हर कोई WhatsApp, Instagram और फैमिली ग्रुप में शुभकामना भेजता है — तो इस बार एक जैसी फॉरवर्ड इमेज की जगह अपनी खुद की <b>हैप्पी दिवाली ग्रीटिंग इमेज</b> बनाइए। नीचे <b>16 कॉपी-पेस्ट प्रॉम्प्ट्स</b> हैं: अपनी फोटो वाले ग्रीटिंग कार्ड, फैमिली और कपल विश, दुकान/बिज़नेस पोस्टर, और बिना फोटो वाली स्टेटस इमेज। हर प्रॉम्प्ट में टेक्स्ट के लिए खाली जगह छोड़ी गई है, ताकि आप अपना संदेश बाद में सही हिंदी में जोड़ सकें।",
+ "related": [
+  "diwali-ai-photo-prompts",
+  "dhanteras-ai-photo-prompts",
+  "govardhan-puja-ai-photo-prompts"
+ ],
+ "blocks": [
+  {
+   "type": "h2",
+   "id": "kaise-banaye",
+   "text": "दिवाली विश इमेज कैसे बनाएं (3 स्टेप)"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<b>Gemini ऐप</b> या <b>gemini.google.com</b> खोलें। (ChatGPT या Meta AI में भी यही प्रॉम्प्ट्स चला सकते हैं।)",
+    "अपनी फोटो वाली इमेज चाहिए तो <b>+</b> दबाकर एक साफ़ फोटो अपलोड करें। बिना फोटो वाली इमेज के लिए सीधे प्रॉम्प्ट पेस्ट करें।",
+    "नीचे से प्रॉम्प्ट कॉपी करें, पेस्ट करें और सेंड करें। इमेज डाउनलोड करके किसी फोटो एडिटर में अपना संदेश (जैसे <i>'शुभ दीपावली'</i>) और नाम जोड़ें।"
+   ]
+  },
+  {
+   "type": "note",
+   "title": "हिंदी टेक्स्ट क्यों बाद में जोड़ें?",
+   "html": "AI इमेज टूल अक्सर हिंदी अक्षरों को गलत या टूटा-फूटा लिख देते हैं। इसलिए इन प्रॉम्प्ट्स में <i>'leave empty space for text, do not write any text'</i> लिखा है। इमेज बनने के बाद Canva, PicsArt या फोन के एडिटर में संदेश जोड़ना सबसे भरोसेमंद तरीका है।"
+  },
+  {
+   "type": "table",
+   "head": [
+    "कहाँ भेजनी है",
+    "साइज़ (प्रॉम्प्ट में लिखें)"
+   ],
+   "rows": [
+    [
+     "WhatsApp/Instagram स्टेटस",
+     "vertical 9:16"
+    ],
+    [
+     "Instagram पोस्ट",
+     "portrait 4:5"
+    ],
+    [
+     "WhatsApp DP / फेसबुक पोस्ट",
+     "square 1:1"
+    ],
+    [
+     "YouTube/फेसबुक कवर",
+     "wide 16:9"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "apni-photo",
+   "text": "अपनी फोटो वाले दिवाली ग्रीटिंग प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "दीया हाथ में लिए ग्रीटिंग कार्ड",
+   "for": "All",
+   "text": "Create a Happy Diwali greeting card image in vertical 9:16 format using the person in this photo. They wear elegant festive Indian clothing and hold a glowing clay diya close to their chest with both hands, smiling warmly. Background: soft golden bokeh, hanging marigold garlands and warm string lights. Leave clean empty space at the top for a greeting message; do not write any text. Realistic photography, warm festive colours. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "रंगोली के पास बैठी फोटो वाला कार्ड",
+   "for": "Woman",
+   "text": "Using this photo, show the same person sitting beside a large colourful flower-and-colour rangoli with lit diyas around its edge, wearing festive ethnic clothes, looking at the camera with a gentle smile. Square 1:1 format, warm evening light, realistic photography. Keep the lower third of the image calm and plain for adding a Diwali wish later; do not add any text. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "कुर्ता लुक दिवाली विश पोस्ट",
+   "for": "Man",
+   "text": "Show the man from this photo in a silk kurta with a Nehru jacket, standing at the entrance of a house decorated with diyas, toran and lanterns on Diwali night, folded hands in a namaste greeting. Portrait 4:5 format, cinematic warm light, realistic photography. Leave empty space on one side for a greeting; do not write any text. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "विंटेज पेंटेड ग्रीटिंग कार्ड",
+   "for": "All",
+   "text": "Turn this photo into a vintage hand-painted Indian Diwali greeting card of the same person: decorative golden border with paisley patterns, diyas and marigolds in the corners, warm saturated colours, a slightly textured paper look. Leave a blank ribbon banner at the bottom for text; do not write any text. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "वॉटरकलर स्टाइल पोर्ट्रेट कार्ड",
+   "for": "All",
+   "text": "Create a soft watercolour illustration of the person in this photo holding a sparkler, surrounded by painted diyas, lanterns and floating golden sparkles on a cream paper background. Elegant greeting-card style, square 1:1. Leave the top area empty for a message; do not write any text. Keep the face recognisable and exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "family-couple",
+   "text": "फैमिली और कपल दिवाली विश प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "फैमिली ग्रीटिंग कार्ड",
+   "for": "Family",
+   "text": "Using this family photo, create a Diwali family greeting card. Everyone wears coordinated festive clothes in maroon, gold and cream, standing together on a balcony lined with diyas, fairy lights and a big rangoli in front. Wide 16:9 format, realistic warm photography. Leave empty space at the top for 'Happy Diwali from our family'; do not write any text. Keep every face exactly identical to the uploaded photo and do not add or remove any person."
+  },
+  {
+   "type": "prompt",
+   "title": "कपल दिवाली विश",
+   "for": "Couple",
+   "text": "Using this photo of the couple, create a romantic Diwali wish image: both in festive Indian outfits lighting one diya together with their hands close, warm candle glow on their faces, blurred fireworks in the night sky behind. Portrait 4:5, cinematic realistic photography. Leave empty space at the top for a message; do not write any text. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "बच्चों के साथ फुलझड़ी",
+   "for": "Family",
+   "text": "Using this photo of the parent and child, show them holding sparklers together in the courtyard on Diwali night, the child laughing, golden sparks lighting their faces, diyas along the wall behind. Square 1:1, realistic warm photography. Leave space at the bottom for text; do not write any text. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "business",
+   "text": "दुकान और बिज़नेस के लिए दिवाली विश पोस्टर"
+  },
+  {
+   "type": "prompt",
+   "title": "दुकान मालिक का विश पोस्टर",
+   "for": "Business",
+   "text": "Using this photo, create a Diwali wishes poster for a local shop owner: the same person stands in front of a decorated shop entrance with marigold garlands, a toran and glowing diyas, folded hands in namaste, wearing a festive kurta. Square 1:1 format, bright and clean festive look. Leave a clear empty band at the top for the shop name and a plain area at the bottom for a wish; do not write any text. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "कॉर्पोरेट / ऑफिस विश इमेज (बिना फोटो)",
+   "for": "Business",
+   "text": "Create an elegant corporate Diwali greeting background in wide 16:9 format: deep navy blue background, a neat row of golden diyas along the bottom, subtle gold geometric rangoli pattern in one corner, lots of clean empty space in the centre for a company message and logo. Minimal, premium look, no people, do not write any text. If a person's photo is uploaded, keep their face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "मिठाई के डिब्बे वाला पोस्टर (बिना फोटो)",
+   "for": "Business",
+   "text": "Create a festive product-style image in square 1:1 format: an open decorated sweet box with kaju katli, laddoos and barfi, surrounded by diyas, marigold petals and small gift boxes on a rich red silk cloth, soft studio lighting. Leave empty space on the right side for a shop name and offer; do not write any text. If a person's photo is uploaded, keep their face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "bina-photo",
+   "text": "बिना फोटो वाली हैप्पी दिवाली इमेज (WhatsApp स्टेटस)"
+  },
+  {
+   "type": "prompt",
+   "title": "दीयों की कतार – स्टेटस",
+   "for": "All",
+   "text": "Create a vertical 9:16 Happy Diwali status background: a long row of glowing clay diyas on a dark wooden ledge fading into soft golden bokeh, a few marigold petals scattered, warm cinematic light. Leave the upper half empty and dark for text; do not write any text. If a person's photo is uploaded, keep their face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "टॉप-व्यू रंगोली",
+   "for": "All",
+   "text": "Create a top-view image of a beautiful symmetrical Diwali rangoli made of bright coloured powders and flower petals, with lit diyas placed around its outer ring, on a clean stone floor. Square 1:1, sharp and colourful, empty circle in the centre for a message; do not write any text. If a person's photo is uploaded, keep their face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "कंदील और आतिशबाज़ी",
+   "for": "All",
+   "text": "Create a festive night image in portrait 4:5 format: colourful paper lanterns (kandil) hanging from a balcony in the foreground, a city skyline with soft colourful fireworks in the background, warm and cool light mixing. Leave the sky area calm for a greeting; do not write any text. If a person's photo is uploaded, keep their face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "लक्ष्मी-गणेश पूजा थाली",
+   "for": "All",
+   "text": "Create a devotional Diwali image: a decorated brass pooja thali with a lit diya, kumkum, rice, flowers and a small silver coin, placed in front of a softly blurred altar with marigold garlands. Vertical 9:16, warm golden light, respectful and calm mood. Leave empty space at the top for a 'Shubh Deepawali' message added later; do not write any text. If a person's photo is uploaded, keep their face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "3D एनिमेटेड दीया कैरेक्टर",
+   "for": "Kids",
+   "text": "Create a cute 3D animated-movie style scene: a smiling little clay diya character with big friendly eyes, its flame glowing, sitting on a rangoli with tiny sparkles around, colourful soft lighting. Square 1:1, playful and cheerful. Leave empty space at the top for a wish; do not write any text. If a person's photo is uploaded, keep their face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "wish-sandesh",
+   "text": "इमेज पर लिखने के लिए छोटे दिवाली संदेश"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "शुभ दीपावली! आपका घर रोशनी, खुशियों और समृद्धि से भरा रहे।",
+    "दीयों की रोशनी से आपका हर दिन जगमगाए — हैप्पी दिवाली!",
+    "माँ लक्ष्मी की कृपा आप और आपके परिवार पर बनी रहे। शुभ दीपावली।",
+    "इस दिवाली मिठास, अपनापन और नई शुरुआत — आपको और आपके परिवार को शुभकामनाएं।",
+    "(बिज़नेस) हमारे सभी ग्राहकों को दीपावली की हार्दिक शुभकामनाएं — आपके भरोसे के लिए धन्यवाद।"
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "tips",
+   "text": "बेहतर दिवाली विश इमेज के लिए 5 टिप्स"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "फोटो वाली इमेज में चेहरा साफ़, सामने से और अच्छी रोशनी में हो — तभी चेहरा मिलता-जुलता आता है।",
+    "चेहरा बदल जाए तो उसी चैट में लिखें: <i>'the face changed, keep the face exactly identical to the uploaded photo'</i>। ज़्यादा जानकारी के लिए <a href='/gemini-ai-photo-prompt-without-changing-face/'>चेहरा न बदलने वाली गाइड</a> देखें।",
+    "स्टेटस के लिए 9:16 और पोस्ट के लिए 4:5 या 1:1 साइज़ प्रॉम्प्ट में ज़रूर लिखें।",
+    "रंग बदलने हों तो छोटा निर्देश जोड़ें, जैसे <i>'make the background deep purple'</i>।",
+    "किसी दूसरे व्यक्ति (जैसे किसी सेलिब्रिटी) की फोटो से उसकी अनुमति के बिना इमेज न बनाएं — सिर्फ़ अपनी या परिवार की फोटो इस्तेमाल करें।"
+   ]
+  },
+  {
+   "type": "p",
+   "html": "अपनी दिवाली फोटो (साड़ी, कुर्ता, कपल, रंगोली) के लिए हमारी <a href='/diwali-ai-photo-prompts/'>Diwali AI Photo Prompts</a> लिस्ट देखें। धनतेरस (6 नवंबर) के लिए <a href='/dhanteras-ai-photo-prompts/'>Dhanteras प्रॉम्प्ट्स</a>, गोवर्धन पूजा (10 नवंबर) के लिए <a href='/govardhan-puja-ai-photo-prompts/'>Govardhan Puja प्रॉम्प्ट्स</a> और भाई दूज (11 नवंबर) के लिए <a href='/bhai-dooj-ai-photo-prompts/'>Bhai Dooj प्रॉम्प्ट्स</a> भी तैयार हैं।"
+  }
+ ],
+ "faq": [
+  {
+   "q": "दिवाली 2026 कब है?",
+   "a": "दिवाली (लक्ष्मी पूजा) 2026 में रविवार, 8 नवंबर को है। विश इमेज 6–7 नवंबर तक तैयार कर लें ताकि सुबह से भेज सकें।"
+  },
+  {
+   "q": "क्या AI से बनी इमेज पर सीधे हिंदी में Happy Diwali लिखवा सकते हैं?",
+   "a": "कोशिश कर सकते हैं, पर AI अक्सर हिंदी अक्षर गलत लिखता है। बेहतर है कि इमेज बिना टेक्स्ट के बनाएं और बाद में किसी फोटो एडिटर में संदेश जोड़ें।"
+  },
+  {
+   "q": "बिना अपनी फोटो के दिवाली विश इमेज कैसे बनाएं?",
+   "a": "इस पेज के 'बिना फोटो वाली इमेज' और बिज़नेस सेक्शन के प्रॉम्प्ट्स बिना कोई फोटो अपलोड किए सीधे Gemini या ChatGPT में पेस्ट करें।"
+  },
+  {
+   "q": "दुकान के लिए दिवाली पोस्टर कैसे बनाएं?",
+   "a": "बिज़नेस सेक्शन का प्रॉम्प्ट इस्तेमाल करें — उसमें दुकान के नाम और ऑफ़र के लिए खाली जगह छोड़ी गई है। इमेज बनने के बाद नाम, नंबर और ऑफ़र एडिटर में जोड़ें।"
+  }
+ ]
+}

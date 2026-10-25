@@ -1,0 +1,240 @@
+{
+ "slug": "gemini-ai-photo-prompt-instagram-aesthetic",
+ "category": "ai-photo-prompts",
+ "date": "2026-10-25",
+ "updated": "2026-10-25",
+ "title": "Gemini AI Photo Prompt Instagram Aesthetic: 18 कॉपी-पेस्ट प्रॉम्प्ट्स (लड़के, लड़कियां, कपल 2026)",
+ "seoTitle": "Gemini AI Photo Prompt Instagram Aesthetic – 18 Copy Paste",
+ "description": "Gemini AI photo prompt Instagram aesthetic — पेस्टल, फिल्म ग्रेन, गोल्डन आवर, DP और कपल लुक के 18 कॉपी-पेस्ट प्रॉम्प्ट्स, साइज़ और कैप्शन टिप्स के साथ।",
+ "keywords": "gemini ai photo prompt instagram aesthetic, gemini ai photo prompt copy paste instagram, gemini ai photo prompt instagram trending, gemini ai photo prompt instagram dp, aesthetic ai photo prompt, instagram aesthetic photo prompt girl, instagram aesthetic prompt boy",
+ "intro": "Instagram पर वो सॉफ्ट, फिल्मी, एक जैसे रंगों वाली <b>एस्थेटिक फोटो</b> अब सिर्फ़ एक सेल्फी और सही प्रॉम्प्ट से बन सकती है। नीचे <b>18 कॉपी-पेस्ट Gemini प्रॉम्प्ट्स</b> हैं — लड़कियों, लड़कों, कपल और प्रोफाइल DP के लिए अलग-अलग। हर प्रॉम्प्ट में Instagram का सही साइज़ और आख़िर में चेहरा न बदलने वाली लाइन पहले से जुड़ी है।",
+ "related": [
+  "gemini-ai-photo-prompt-copy-paste",
+  "gemini-ai-photo-prompt-for-boy",
+  "gemini-ai-photo-prompt-couple"
+ ],
+ "blocks": [
+  {
+   "type": "h2",
+   "id": "kaise-use-kare",
+   "text": "Instagram एस्थेटिक प्रॉम्प्ट कैसे इस्तेमाल करें"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<b>Gemini ऐप</b> खोलें या <b>gemini.google.com</b> पर लॉगिन करें।",
+    "<b>+</b> दबाकर अपनी एक साफ़ फोटो अपलोड करें — चेहरा सामने से और अच्छी रोशनी में हो।",
+    "नीचे से प्रॉम्प्ट कॉपी करके पेस्ट करें और सेंड करें।",
+    "रिज़ल्ट पसंद न आए तो वहीं छोटा बदलाव लिखें, जैसे <i>'make the colours more muted'</i> या <i>'add more film grain'</i>।",
+    "इमेज डाउनलोड करें और Instagram पर पोस्ट करें।"
+   ]
+  },
+  {
+   "type": "table",
+   "head": [
+    "Instagram पर कहाँ",
+    "प्रॉम्प्ट में लिखें"
+   ],
+   "rows": [
+    [
+     "फ़ीड पोस्ट (सबसे ज़्यादा जगह)",
+     "portrait 4:5"
+    ],
+    [
+     "स्टोरी / रील कवर",
+     "vertical 9:16"
+    ],
+    [
+     "प्रोफाइल DP",
+     "square 1:1, face centred"
+    ]
+   ]
+  },
+  {
+   "type": "note",
+   "title": "एस्थेटिक फ़ीड का राज़",
+   "html": "पूरी फ़ीड एक जैसी दिखे, इसके लिए हर फोटो में एक ही कलर-टोन रखें। जैसे हर प्रॉम्प्ट के आख़िर में <i>'warm beige and soft brown colour palette'</i> जोड़ दें।"
+  },
+  {
+   "type": "h2",
+   "id": "girls",
+   "text": "लड़कियों के लिए Instagram एस्थेटिक प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "पेस्टल फ्लावर फील्ड",
+   "for": "Girl",
+   "text": "Show the woman from this photo walking through a field of soft pink cosmos flowers in a flowing white cotton dress, looking back over her shoulder with a gentle smile. Pastel colour palette, dreamy soft light, slight haze, portrait 4:5, aesthetic Instagram photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "फेयरी लाइट्स बेडरूम",
+   "for": "Girl",
+   "text": "Show the woman from this photo sitting cross-legged on a cosy bed with a cream knitted blanket, warm fairy lights on the wall behind her, holding a mug, soft candid smile. Warm beige tones, low light with gentle glow, portrait 4:5, cosy aesthetic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "विंडो ब्लाइंड्स शैडो पोर्ट्रेट",
+   "for": "Girl",
+   "text": "Create a close-up portrait of the woman in this photo with sunlight passing through window blinds, striped shadows falling across her face and shoulder, calm expression looking slightly away. Warm golden tones, minimal background, artistic Instagram portrait, portrait 4:5. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "बुकशेल्फ़ और कॉफ़ी",
+   "for": "Girl",
+   "text": "Show the woman from this photo in an oversized beige sweater reading a book beside a tall wooden bookshelf in a quiet library corner, warm lamp light, a cup of coffee on the table. Muted brown and cream palette, soft film grain, portrait 4:5. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "बीच गोल्डन आवर",
+   "for": "Girl",
+   "text": "Show the woman from this photo standing on a quiet beach at golden hour, hair moving in the breeze, wearing a light linen outfit, sun glowing behind her creating a soft rim light. Warm peach tones, shallow depth of field, vertical 9:16, aesthetic travel photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "कुर्ती और झुमके – देसी एस्थेटिक",
+   "for": "Girl",
+   "text": "Show the woman from this photo in a simple pastel cotton kurti with silver jhumkas, sitting on old stone steps beside a jasmine plant, soft morning light. Desi aesthetic mood, muted earthy colours, portrait 4:5, natural realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "सनफ्लावर पोर्ट्रेट",
+   "for": "Girl",
+   "text": "Show the woman from this photo standing among tall sunflowers holding one sunflower near her face, wearing a mustard yellow top, bright midday sun with soft lens flare. Warm yellow and green palette, cheerful mood, portrait 4:5, aesthetic Instagram photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "boys",
+   "text": "लड़कों के लिए Instagram एस्थेटिक प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "फिल्म ग्रेन स्ट्रीट लुक",
+   "for": "Boy",
+   "text": "Show the man from this photo walking across an old city street in a loose shirt and wide trousers, hands in pockets, candid side angle. 35mm film look with visible grain, faded warm colours, soft afternoon light, portrait 4:5, aesthetic street photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "रूफटॉप सिटी लाइट्स",
+   "for": "Boy",
+   "text": "Show the man from this photo sitting on a rooftop ledge at blue hour, city lights glowing softly out of focus behind him, wearing a dark overshirt, calm look into the distance. Cool blue and warm orange tones, cinematic, vertical 9:16. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "लाइब्रेरी मिनिमल पोर्ट्रेट",
+   "for": "Boy",
+   "text": "Show the man from this photo in a cream knitted sweater sitting by a large window with a book, soft daylight on one side of his face. Minimal composition, beige and grey palette, clean aesthetic portrait, portrait 4:5. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पहाड़ों पर फ़ॉगी मॉर्निंग",
+   "for": "Boy",
+   "text": "Show the man from this photo standing on a misty mountain road in a long coat, pine trees fading into fog behind him, looking at the camera calmly. Moody desaturated green tones, soft diffused light, portrait 4:5, cinematic aesthetic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "Y2K फ़्लैश फोटो",
+   "for": "Boy",
+   "text": "Create a Y2K-style direct flash photo of the man in this photo at night against a plain wall, wearing a graphic tee and silver chain, slight motion blur, bright flash on the face with dark background, early-2000s digital camera look. Square 1:1. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "couple",
+   "text": "कपल के लिए Instagram एस्थेटिक प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "कैफ़े विंडो कपल",
+   "for": "Couple",
+   "text": "Using this photo of the couple, show them sitting across a small table by a rainy café window, laughing together over two cups of coffee, warm interior light and raindrops on the glass. Soft brown palette, candid moment, portrait 4:5. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "सनसेट सिल्हूट कपल",
+   "for": "Couple",
+   "text": "Using this photo of the couple, show them walking hand in hand on a hill at sunset, shot from slightly behind and to the side so their faces are still visible, warm orange sky and long shadows. Dreamy aesthetic, vertical 9:16. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पोलरॉइड स्ट्रिप कपल",
+   "for": "Couple",
+   "text": "Using this photo of the couple, create a vintage photo-booth strip of four small frames: smiling, laughing, looking at each other and a playful pose. Slight film grain, warm faded colours, white border. Keep both faces exactly identical to the uploaded photo in every frame."
+  },
+  {
+   "type": "h2",
+   "id": "dp",
+   "text": "Instagram DP (प्रोफाइल फोटो) के लिए प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "सॉफ्ट बैकग्राउंड क्लोज़-अप DP",
+   "for": "All",
+   "text": "Create a clean profile picture of the person in this photo: head-and-shoulders close-up, face centred, soft natural smile, plain warm beige studio background, soft even light. Square 1:1, sharp focus on the eyes, realistic. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "गोल्डन लाइट साइड प्रोफाइल DP",
+   "for": "All",
+   "text": "Create a square 1:1 profile picture of the person in this photo in soft side light at golden hour, face turned three-quarters to the camera, warm glow on the cheek, background softly blurred greenery. Aesthetic, realistic. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "ब्लैक एंड व्हाइट मिनिमल DP",
+   "for": "All",
+   "text": "Create a minimal black-and-white profile picture of the person in this photo, head-and-shoulders, face centred, soft contrast, plain grey background, fine-art portrait feel. Square 1:1. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "caption",
+   "text": "एस्थेटिक फोटो के लिए छोटे कैप्शन आइडिया"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "golden hour, slow mind ✨",
+    "कुछ पल, बस अपने लिए।",
+    "soft days, soft heart.",
+    "चाय, किताब और ये शाम।",
+    "collecting sunsets, not things.",
+    "(कपल) तुम और ये बारिश वाली कॉफ़ी।"
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "tips",
+   "text": "बेहतर Instagram एस्थेटिक फोटो के लिए 5 टिप्स"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "एक ही रंग-पैलेट (जैसे beige, pastel या moody green) चुनें और हर प्रॉम्प्ट में लिखें, ताकि फ़ीड एक जैसी दिखे।",
+    "<i>'film grain'</i>, <i>'soft light'</i>, <i>'muted colours'</i> जैसे शब्द एस्थेटिक लुक को और गहरा करते हैं।",
+    "चेहरा बदल जाए तो लिखें <i>'keep the face exactly identical to the uploaded photo'</i>। पूरा तरीका: <a href='/gemini-ai-photo-prompt-without-changing-face/'>Gemini AI photo prompt without changing face</a>।",
+    "बहुत ज़्यादा स्मूद या प्लास्टिक जैसी स्किन से बचने के लिए जोड़ें: <i>'natural skin texture, no heavy smoothing'</i>।",
+    "सिर्फ़ अपनी या उस व्यक्ति की फोटो इस्तेमाल करें जिसकी अनुमति हो — किसी और की फोटो को बिना पूछे एडिट करके पोस्ट न करें।"
+   ]
+  },
+  {
+   "type": "p",
+   "html": "और प्रॉम्प्ट्स चाहिए? हमारी <a href='/gemini-ai-photo-prompt-copy-paste/'>Gemini AI Photo Prompt Copy Paste</a> लिस्ट में 25 ट्रेंडिंग प्रॉम्प्ट्स, <a href='/gemini-ai-photo-prompt-for-boy/'>लड़कों के लिए 20 प्रॉम्प्ट्स</a> और <a href='/gemini-ai-photo-prompt-couple/'>कपल प्रॉम्प्ट्स</a> देखें। त्योहार के लिए <a href='/diwali-ai-photo-prompts/'>दिवाली प्रॉम्प्ट्स</a> भी तैयार हैं।"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Instagram एस्थेटिक फोटो के लिए कौन सा साइज़ सबसे अच्छा है?",
+   "a": "फ़ीड पोस्ट के लिए portrait 4:5, स्टोरी और रील कवर के लिए vertical 9:16 और प्रोफाइल DP के लिए square 1:1 प्रॉम्प्ट में लिखें।"
+  },
+  {
+   "q": "क्या ये प्रॉम्प्ट्स फ्री में चलते हैं?",
+   "a": "Gemini ऐप में फोटो एडिटिंग फ्री अकाउंट से भी की जा सकती है, पर रोज़ की लिमिट हो सकती है। ये प्रॉम्प्ट्स ChatGPT और Meta AI में भी डाले जा सकते हैं।"
+  },
+  {
+   "q": "रिज़ल्ट में चेहरा अलग क्यों आता है?",
+   "a": "धुंधली, साइड से ली गई या कम रोशनी वाली फोटो में ऐसा ज़्यादा होता है। साफ़ फोटो अपलोड करें और प्रॉम्प्ट के आख़िर में चेहरा न बदलने वाली लाइन रखें।"
+  },
+  {
+   "q": "पूरी Instagram फ़ीड एक जैसी कैसे दिखाएं?",
+   "a": "हर प्रॉम्प्ट में एक ही कलर-पैलेट और लाइट लिखें, जैसे 'warm beige palette, soft film grain'। इससे सारी फोटो एक सेट जैसी लगती हैं।"
+  }
+ ]
+}
