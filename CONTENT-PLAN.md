@@ -18,8 +18,8 @@ Status legend: [ ] todo · [x] published (date)
 ## Week of 26 Oct – 1 Nov (set by weekly review 2026-10-25; 2 per day, in this order)
 Festival dates verified 25 Oct: Diwali 8 Nov, Chhath main day 15 Nov, Tulsi Vivah 21 Nov (hindutone, navbharatlive), Dev Diwali + Guru Nanak Jayanti 24 Nov (hindutone, drikpanchang, zingbus). Each festival page below goes live 10–25 days ahead.
 - Mon 26 Oct
-  - [ ] diwali-ai-video-kaise-banaye — Diwali 8 Nov (13 days ahead); "ai video kaise banaye" 18.1k/mo, SD 27
-  - [ ] gemini-ai-photo-prompt-trending-2026 — "trending" 8.1k SD 19, "trending 2026" 1.9k; autocomplete: trending boy/girl 2026, sad, rose, butterfly, car
+  - [x] diwali-ai-video-kaise-banaye — Diwali 8 Nov (13 days ahead; re-verified 26 Oct: smartpuja, kissht, haindavam) (2026-10-26); "ai video kaise banaye" 18.1k/mo, SD 27
+  - [x] gemini-ai-photo-prompt-trending-2026 — (2026-10-26) "trending" 8.1k SD 19, "trending 2026" 1.9k; autocomplete: trending boy/girl 2026, sad, rose, butterfly, car
 - Tue 27 Oct
   - [ ] ai-photo-editing-prompts — ChatGPT + Gemini pillar, 27.1k/mo, SD 17; boys, girls, couple, kids, birthday
   - [ ] gemini-ai-photo-prompt-background-change — background change prompts
@@ -107,3 +107,4 @@ Festival dates verified 25 Oct: Diwali 8 Nov, Chhath main day 15 Nov, Tulsi Viva
 - 2026-10-23: +2 posts (govardhan-puja-ai-photo-prompts, childrens-day-ai-photo-prompts); fixes: festival hub links on the Gemini copy-paste page, Chhath → Diwali/Govardhan/Bhai Dooj links, AI video description trimmed to 160 chars. Diwali page now links Govardhan. Karwa Chauth (29 Oct, 6 days) skipped by the 10-day rule. GSC still not connected.
 - 2026-10-24: +2 posts (gemini-ai-photo-prompt-for-boy, gemini-ai-photo-prompt-without-changing-face); fixes: Gemini copy-paste hub links both new pages, couple page links the face guide, saree page expanded (how-to, 5 tips, festival links, +1 FAQ; 760→935 words). No festival in the 10–25 day window lacks a page (Choti Diwali skipped: sources disagree whether it is 7 or 8 Nov and it overlaps the Diwali page). GSC still not connected.
 - 2026-10-25: +2 posts (diwali-wishes-ai-image-prompts, gemini-ai-photo-prompt-instagram-aesthetic); fixes: Diwali page → wishes page link, Gemini copy-paste hub and for-boy page → Instagram aesthetic link. Diwali (8 Nov, 14 days) was the only festival in the 10–25 day window without a greeting-image page; Karwa Chauth (29 Oct) skipped by the 10-day rule. Ubersuggest autocomplete shows demand for 'diwali ai photo prompt boy/girl/couple'. Netlify connector needs re-auth; GSC still not connected.
+- 2026-10-26: +2 posts (diwali-ai-video-kaise-banaye, gemini-ai-photo-prompt-trending-2026); fixes: AI video guide → Diwali video link, Diwali photo page → Diwali video link, Gemini copy-paste hub → trending 2026 link. Lighthouse (local, mobile): home 97/100/100/100, both new posts 100/100/100/100. Netlify connector needs re-auth (deploy verified via live URL check); GSC still not connected.
